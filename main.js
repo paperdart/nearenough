@@ -1,4 +1,3 @@
-import './style.css'
 import LocalTraining from './js/localevents.js'
 import { createLoadingIndicator, renderLocationData, renderNearbyEvents } from './js/ui.js'
 
