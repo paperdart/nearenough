@@ -71,7 +71,7 @@ export function renderLocationData(locationData, container) {
   banner.innerHTML = `
     <div class="location-content">
       <div class="location-text">
-        <img src="/E0A9.svg" alt="Location" class="location-icon" />
+        <img src="./public/E0A9.svg" alt="Location" class="location-icon" />
         <span class="location-label">Your location:</span>
         <span class="location-value">${locationText}</span>
         ${coordinatesText ? `<span class="location-coordinates">(${coordinatesText})</span>` : ''}
