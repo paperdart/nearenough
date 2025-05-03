@@ -27,7 +27,7 @@
     "status": "open",
     "latitude": 48.1386,
     "longitude": 11.5683,
-    "address": "Neuhauser Str. 27, 80331 München, Germany"
+    "address": "Neuhauser Str. 27, 80331 M\u00fcnchen, Germany"
   },
   {
     "name": "El Tigre Sidra Bar",
@@ -48,5 +48,4955 @@
     "latitude": 35.6938,
     "longitude": 139.7034,
     "address": "9F Yamatoya Bldg, 1-13-7 Nishi-Shinjuku, Tokyo, Japan"
+  },
+  {
+    "name": "Bar #6",
+    "type": "Brewpub",
+    "start": "16/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -37.564348,
+    "longitude": 106.263836,
+    "address": "667 Example St, City 5, United Kingdom"
+  },
+  {
+    "name": "Bar #7",
+    "type": "Beer Hall",
+    "start": "10/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -58.663946,
+    "longitude": -39.540733,
+    "address": "999 Example St, City 6, Brazil"
+  },
+  {
+    "name": "Bar #8",
+    "type": "Traditional Pub",
+    "start": "19/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 22.981115,
+    "longitude": 64.240233,
+    "address": "525 Example St, City 7, Canada"
+  },
+  {
+    "name": "Bar #9",
+    "type": "Cocktail Bar",
+    "start": "11/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 38.540321,
+    "longitude": -38.921298,
+    "address": "269 Example St, City 8, Mexico"
+  },
+  {
+    "name": "Bar #10",
+    "type": "Beer Hall",
+    "start": "12/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 45.759056,
+    "longitude": 73.077396,
+    "address": "651 Example St, City 9, Japan"
+  },
+  {
+    "name": "Bar #11",
+    "type": "Cocktail Bar",
+    "start": "13/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 51.139668,
+    "longitude": 66.258906,
+    "address": "645 Example St, City 10, Japan"
+  },
+  {
+    "name": "Bar #12",
+    "type": "Beach Bar",
+    "start": "11/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 63.316459,
+    "longitude": 16.86896,
+    "address": "201 Example St, City 11, Netherlands"
+  },
+  {
+    "name": "Bar #13",
+    "type": "Traditional Pub",
+    "start": "02/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 27.448564,
+    "longitude": -24.090717,
+    "address": "475 Example St, City 12, South Africa"
+  },
+  {
+    "name": "Bar #14",
+    "type": "Tapas Bar",
+    "start": "11/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 44.417044,
+    "longitude": 13.58166,
+    "address": "475 Example St, City 13, Spain"
+  },
+  {
+    "name": "Bar #15",
+    "type": "Brewpub",
+    "start": "19/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -17.762016,
+    "longitude": -100.776306,
+    "address": "231 Example St, City 14, Spain"
+  },
+  {
+    "name": "Bar #16",
+    "type": "Cocktail Bar",
+    "start": "11/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 43.159531,
+    "longitude": 71.59169,
+    "address": "630 Example St, City 15, France"
+  },
+  {
+    "name": "Bar #17",
+    "type": "Tapas Bar",
+    "start": "21/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 63.852834,
+    "longitude": 29.885403,
+    "address": "696 Example St, City 16, Mexico"
+  },
+  {
+    "name": "Bar #18",
+    "type": "Traditional Pub",
+    "start": "03/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 21.285973,
+    "longitude": -23.145661,
+    "address": "202 Example St, City 17, United States"
+  },
+  {
+    "name": "Bar #19",
+    "type": "Beer Hall",
+    "start": "05/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -40.993891,
+    "longitude": -142.487941,
+    "address": "517 Example St, City 18, Germany"
+  },
+  {
+    "name": "Bar #20",
+    "type": "Beach Bar",
+    "start": "16/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 14.453979,
+    "longitude": 32.980736,
+    "address": "43 Example St, City 19, Netherlands"
+  },
+  {
+    "name": "Bar #21",
+    "type": "Beach Bar",
+    "start": "22/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 19.812962,
+    "longitude": 55.375292,
+    "address": "555 Example St, City 20, Netherlands"
+  },
+  {
+    "name": "Bar #22",
+    "type": "Cocktail Bar",
+    "start": "01/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -51.907498,
+    "longitude": -128.619784,
+    "address": "657 Example St, City 21, Mexico"
+  },
+  {
+    "name": "Bar #23",
+    "type": "Traditional Pub",
+    "start": "24/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 31.809916,
+    "longitude": -101.467521,
+    "address": "849 Example St, City 22, Ireland"
+  },
+  {
+    "name": "Bar #24",
+    "type": "Traditional Pub",
+    "start": "31/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -21.21143,
+    "longitude": -137.850815,
+    "address": "307 Example St, City 23, Ireland"
+  },
+  {
+    "name": "Bar #25",
+    "type": "Beer Hall",
+    "start": "12/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -15.108465,
+    "longitude": -24.206732,
+    "address": "775 Example St, City 24, Vietnam"
+  },
+  {
+    "name": "Bar #26",
+    "type": "Tapas Bar",
+    "start": "21/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 6.97252,
+    "longitude": -32.971131,
+    "address": "528 Example St, City 25, United States"
+  },
+  {
+    "name": "Bar #27",
+    "type": "Cocktail Bar",
+    "start": "03/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 56.061549,
+    "longitude": -71.373364,
+    "address": "718 Example St, City 26, Australia"
+  },
+  {
+    "name": "Bar #28",
+    "type": "Traditional Pub",
+    "start": "25/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -50.15814,
+    "longitude": 138.625715,
+    "address": "556 Example St, City 27, Argentina"
+  },
+  {
+    "name": "Bar #29",
+    "type": "Beer Hall",
+    "start": "22/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 13.516068,
+    "longitude": -61.581919,
+    "address": "685 Example St, City 28, Australia"
+  },
+  {
+    "name": "Bar #30",
+    "type": "Wine Bar",
+    "start": "02/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -12.02745,
+    "longitude": 11.244822,
+    "address": "512 Example St, City 29, Ireland"
+  },
+  {
+    "name": "Bar #31",
+    "type": "Beach Bar",
+    "start": "23/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -54.054366,
+    "longitude": -47.604233,
+    "address": "42 Example St, City 30, Germany"
+  },
+  {
+    "name": "Bar #32",
+    "type": "Sports Bar",
+    "start": "17/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 31.589971,
+    "longitude": -35.458579,
+    "address": "636 Example St, City 31, Mexico"
+  },
+  {
+    "name": "Bar #33",
+    "type": "Wine Bar",
+    "start": "06/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 19.805005,
+    "longitude": -112.283,
+    "address": "28 Example St, City 32, Russia"
+  },
+  {
+    "name": "Bar #34",
+    "type": "Wine Bar",
+    "start": "04/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 59.102647,
+    "longitude": -108.891451,
+    "address": "981 Example St, City 33, Sweden"
+  },
+  {
+    "name": "Bar #35",
+    "type": "Sports Bar",
+    "start": "12/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -47.831512,
+    "longitude": -144.118533,
+    "address": "812 Example St, City 34, Italy"
+  },
+  {
+    "name": "Bar #36",
+    "type": "Rooftop Bar",
+    "start": "23/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -43.615031,
+    "longitude": -5.586816,
+    "address": "832 Example St, City 35, Spain"
+  },
+  {
+    "name": "Bar #37",
+    "type": "Traditional Pub",
+    "start": "04/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -33.425374,
+    "longitude": 144.134712,
+    "address": "640 Example St, City 36, Argentina"
+  },
+  {
+    "name": "Bar #38",
+    "type": "Tapas Bar",
+    "start": "29/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 32.162005,
+    "longitude": -1.822013,
+    "address": "879 Example St, City 37, Netherlands"
+  },
+  {
+    "name": "Bar #39",
+    "type": "Sports Bar",
+    "start": "17/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 64.568002,
+    "longitude": -127.875778,
+    "address": "890 Example St, City 38, Germany"
+  },
+  {
+    "name": "Bar #40",
+    "type": "Rooftop Bar",
+    "start": "15/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -59.62282,
+    "longitude": -88.618517,
+    "address": "993 Example St, City 39, Thailand"
+  },
+  {
+    "name": "Bar #41",
+    "type": "Beer Hall",
+    "start": "30/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -12.092348,
+    "longitude": 3.76336,
+    "address": "254 Example St, City 40, Mexico"
+  },
+  {
+    "name": "Bar #42",
+    "type": "Rooftop Bar",
+    "start": "06/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 51.478925,
+    "longitude": -109.502652,
+    "address": "729 Example St, City 41, India"
+  },
+  {
+    "name": "Bar #43",
+    "type": "Tapas Bar",
+    "start": "20/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -4.747034,
+    "longitude": 43.858822,
+    "address": "321 Example St, City 42, France"
+  },
+  {
+    "name": "Bar #44",
+    "type": "Wine Bar",
+    "start": "09/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 39.800371,
+    "longitude": -18.577165,
+    "address": "874 Example St, City 43, South Africa"
+  },
+  {
+    "name": "Bar #45",
+    "type": "Rooftop Bar",
+    "start": "28/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -9.279533,
+    "longitude": 31.555158,
+    "address": "577 Example St, City 44, Spain"
+  },
+  {
+    "name": "Bar #46",
+    "type": "Wine Bar",
+    "start": "26/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -6.888931,
+    "longitude": -40.306996,
+    "address": "615 Example St, City 45, Ireland"
+  },
+  {
+    "name": "Bar #47",
+    "type": "Tapas Bar",
+    "start": "22/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 38.405825,
+    "longitude": 34.104048,
+    "address": "558 Example St, City 46, Japan"
+  },
+  {
+    "name": "Bar #48",
+    "type": "Traditional Pub",
+    "start": "22/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -7.270882,
+    "longitude": -94.745556,
+    "address": "302 Example St, City 47, Canada"
+  },
+  {
+    "name": "Bar #49",
+    "type": "Rooftop Bar",
+    "start": "15/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -43.275165,
+    "longitude": 36.307735,
+    "address": "680 Example St, City 48, France"
+  },
+  {
+    "name": "Bar #50",
+    "type": "Sports Bar",
+    "start": "28/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -51.994434,
+    "longitude": 6.258166,
+    "address": "932 Example St, City 49, Argentina"
+  },
+  {
+    "name": "Bar #51",
+    "type": "Sports Bar",
+    "start": "13/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 65.011776,
+    "longitude": -100.299251,
+    "address": "454 Example St, City 50, United Kingdom"
+  },
+  {
+    "name": "Bar #52",
+    "type": "Brewpub",
+    "start": "29/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -5.093944,
+    "longitude": 121.773683,
+    "address": "775 Example St, City 51, Australia"
+  },
+  {
+    "name": "Bar #53",
+    "type": "Beer Hall",
+    "start": "13/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 39.287306,
+    "longitude": 95.456011,
+    "address": "320 Example St, City 52, Russia"
+  },
+  {
+    "name": "Bar #54",
+    "type": "Wine Bar",
+    "start": "22/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 23.224495,
+    "longitude": 64.054249,
+    "address": "433 Example St, City 53, Netherlands"
+  },
+  {
+    "name": "Bar #55",
+    "type": "Lounge",
+    "start": "11/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -59.345709,
+    "longitude": -107.526376,
+    "address": "708 Example St, City 54, United Kingdom"
+  },
+  {
+    "name": "Bar #56",
+    "type": "Wine Bar",
+    "start": "03/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -48.877271,
+    "longitude": -28.171104,
+    "address": "282 Example St, City 55, Japan"
+  },
+  {
+    "name": "Bar #57",
+    "type": "Cocktail Bar",
+    "start": "30/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 22.074378,
+    "longitude": -117.332577,
+    "address": "167 Example St, City 56, Russia"
+  },
+  {
+    "name": "Bar #58",
+    "type": "Rooftop Bar",
+    "start": "24/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -48.086433,
+    "longitude": 78.361646,
+    "address": "803 Example St, City 57, Italy"
+  },
+  {
+    "name": "Bar #59",
+    "type": "Traditional Pub",
+    "start": "30/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 43.298618,
+    "longitude": 92.302911,
+    "address": "489 Example St, City 58, Italy"
+  },
+  {
+    "name": "Bar #60",
+    "type": "Beach Bar",
+    "start": "29/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -4.417238,
+    "longitude": 122.393286,
+    "address": "622 Example St, City 59, United States"
+  },
+  {
+    "name": "Bar #61",
+    "type": "Sports Bar",
+    "start": "31/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 53.765497,
+    "longitude": 71.394435,
+    "address": "552 Example St, City 60, Canada"
+  },
+  {
+    "name": "Bar #62",
+    "type": "Tapas Bar",
+    "start": "18/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 49.336332,
+    "longitude": -56.088468,
+    "address": "856 Example St, City 61, Germany"
+  },
+  {
+    "name": "Bar #63",
+    "type": "Sports Bar",
+    "start": "08/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -21.109004,
+    "longitude": -38.518923,
+    "address": "509 Example St, City 62, United States"
+  },
+  {
+    "name": "Bar #64",
+    "type": "Lounge",
+    "start": "09/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 55.928803,
+    "longitude": 21.201971,
+    "address": "16 Example St, City 63, India"
+  },
+  {
+    "name": "Bar #65",
+    "type": "Rooftop Bar",
+    "start": "18/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 49.270955,
+    "longitude": 1.087267,
+    "address": "515 Example St, City 64, United Kingdom"
+  },
+  {
+    "name": "Bar #66",
+    "type": "Brewpub",
+    "start": "31/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -11.564736,
+    "longitude": 96.221955,
+    "address": "708 Example St, City 65, Russia"
+  },
+  {
+    "name": "Bar #67",
+    "type": "Brewpub",
+    "start": "08/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 37.827591,
+    "longitude": -31.981843,
+    "address": "853 Example St, City 66, Japan"
+  },
+  {
+    "name": "Bar #68",
+    "type": "Sports Bar",
+    "start": "30/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 43.558499,
+    "longitude": -149.748053,
+    "address": "909 Example St, City 67, Mexico"
+  },
+  {
+    "name": "Bar #69",
+    "type": "Cocktail Bar",
+    "start": "26/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 49.892759,
+    "longitude": 128.710728,
+    "address": "246 Example St, City 68, Thailand"
+  },
+  {
+    "name": "Bar #70",
+    "type": "Beer Hall",
+    "start": "02/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 60.739818,
+    "longitude": -67.046254,
+    "address": "536 Example St, City 69, South Africa"
+  },
+  {
+    "name": "Bar #71",
+    "type": "Wine Bar",
+    "start": "22/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 31.70763,
+    "longitude": 80.909993,
+    "address": "280 Example St, City 70, Sweden"
+  },
+  {
+    "name": "Bar #72",
+    "type": "Sports Bar",
+    "start": "24/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -31.38535,
+    "longitude": -130.480294,
+    "address": "67 Example St, City 71, Germany"
+  },
+  {
+    "name": "Bar #73",
+    "type": "Brewpub",
+    "start": "23/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 48.200361,
+    "longitude": -7.811491,
+    "address": "743 Example St, City 72, Ireland"
+  },
+  {
+    "name": "Bar #74",
+    "type": "Traditional Pub",
+    "start": "13/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 59.620831,
+    "longitude": 82.471501,
+    "address": "415 Example St, City 73, Thailand"
+  },
+  {
+    "name": "Bar #75",
+    "type": "Brewpub",
+    "start": "20/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 0.084127,
+    "longitude": 95.951227,
+    "address": "339 Example St, City 74, Italy"
+  },
+  {
+    "name": "Bar #76",
+    "type": "Wine Bar",
+    "start": "02/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 47.783436,
+    "longitude": -30.588751,
+    "address": "590 Example St, City 75, Australia"
+  },
+  {
+    "name": "Bar #77",
+    "type": "Traditional Pub",
+    "start": "06/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 50.157737,
+    "longitude": -39.378062,
+    "address": "225 Example St, City 76, Spain"
+  },
+  {
+    "name": "Bar #78",
+    "type": "Rooftop Bar",
+    "start": "02/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -44.766162,
+    "longitude": 71.97162,
+    "address": "387 Example St, City 77, Canada"
+  },
+  {
+    "name": "Bar #79",
+    "type": "Rooftop Bar",
+    "start": "16/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -12.808074,
+    "longitude": -82.638946,
+    "address": "979 Example St, City 78, South Africa"
+  },
+  {
+    "name": "Bar #80",
+    "type": "Tapas Bar",
+    "start": "01/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 3.720334,
+    "longitude": 99.730058,
+    "address": "956 Example St, City 79, United Kingdom"
+  },
+  {
+    "name": "Bar #81",
+    "type": "Brewpub",
+    "start": "16/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -31.533102,
+    "longitude": 43.388071,
+    "address": "395 Example St, City 80, Netherlands"
+  },
+  {
+    "name": "Bar #82",
+    "type": "Beach Bar",
+    "start": "07/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -50.002522,
+    "longitude": 43.32834,
+    "address": "75 Example St, City 81, Sweden"
+  },
+  {
+    "name": "Bar #83",
+    "type": "Beach Bar",
+    "start": "27/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 29.52288,
+    "longitude": 125.383224,
+    "address": "481 Example St, City 82, Netherlands"
+  },
+  {
+    "name": "Bar #84",
+    "type": "Brewpub",
+    "start": "07/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 41.131488,
+    "longitude": 60.162711,
+    "address": "681 Example St, City 83, Germany"
+  },
+  {
+    "name": "Bar #85",
+    "type": "Traditional Pub",
+    "start": "29/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -54.58838,
+    "longitude": 0.567191,
+    "address": "8 Example St, City 84, Italy"
+  },
+  {
+    "name": "Bar #86",
+    "type": "Tapas Bar",
+    "start": "20/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 40.26272,
+    "longitude": 1.308048,
+    "address": "521 Example St, City 85, Italy"
+  },
+  {
+    "name": "Bar #87",
+    "type": "Traditional Pub",
+    "start": "15/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 34.872115,
+    "longitude": 127.59683,
+    "address": "18 Example St, City 86, Japan"
+  },
+  {
+    "name": "Bar #88",
+    "type": "Tapas Bar",
+    "start": "20/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 11.70709,
+    "longitude": -79.80725,
+    "address": "857 Example St, City 87, Thailand"
+  },
+  {
+    "name": "Bar #89",
+    "type": "Brewpub",
+    "start": "09/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 54.928475,
+    "longitude": 4.401572,
+    "address": "826 Example St, City 88, France"
+  },
+  {
+    "name": "Bar #90",
+    "type": "Lounge",
+    "start": "10/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 23.819996,
+    "longitude": -21.88133,
+    "address": "599 Example St, City 89, United Kingdom"
+  },
+  {
+    "name": "Bar #91",
+    "type": "Sports Bar",
+    "start": "10/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 52.706009,
+    "longitude": 94.284975,
+    "address": "968 Example St, City 90, Australia"
+  },
+  {
+    "name": "Bar #92",
+    "type": "Traditional Pub",
+    "start": "03/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -26.790794,
+    "longitude": -59.586732,
+    "address": "360 Example St, City 91, India"
+  },
+  {
+    "name": "Bar #93",
+    "type": "Sports Bar",
+    "start": "03/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -7.718655,
+    "longitude": -149.245303,
+    "address": "157 Example St, City 92, Canada"
+  },
+  {
+    "name": "Bar #94",
+    "type": "Rooftop Bar",
+    "start": "29/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -16.347509,
+    "longitude": -109.056188,
+    "address": "466 Example St, City 93, India"
+  },
+  {
+    "name": "Bar #95",
+    "type": "Cocktail Bar",
+    "start": "06/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -39.503687,
+    "longitude": 130.129448,
+    "address": "270 Example St, City 94, Germany"
+  },
+  {
+    "name": "Bar #96",
+    "type": "Rooftop Bar",
+    "start": "07/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -29.059496,
+    "longitude": -31.342341,
+    "address": "959 Example St, City 95, Mexico"
+  },
+  {
+    "name": "Bar #97",
+    "type": "Rooftop Bar",
+    "start": "16/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 58.536156,
+    "longitude": 96.495687,
+    "address": "100 Example St, City 96, United Kingdom"
+  },
+  {
+    "name": "Bar #98",
+    "type": "Brewpub",
+    "start": "14/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -53.712869,
+    "longitude": -46.680609,
+    "address": "855 Example St, City 97, Mexico"
+  },
+  {
+    "name": "Bar #99",
+    "type": "Traditional Pub",
+    "start": "16/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 50.815109,
+    "longitude": 51.859669,
+    "address": "852 Example St, City 98, India"
+  },
+  {
+    "name": "Bar #100",
+    "type": "Beer Hall",
+    "start": "30/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 0.036068,
+    "longitude": 110.243939,
+    "address": "710 Example St, City 99, Germany"
+  },
+  {
+    "name": "Bar #101",
+    "type": "Traditional Pub",
+    "start": "01/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 27.123307,
+    "longitude": -133.290318,
+    "address": "310 Example St, City 0, United States"
+  },
+  {
+    "name": "Bar #102",
+    "type": "Traditional Pub",
+    "start": "22/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 47.964129,
+    "longitude": -116.310537,
+    "address": "532 Example St, City 1, Netherlands"
+  },
+  {
+    "name": "Bar #103",
+    "type": "Sports Bar",
+    "start": "30/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -5.29943,
+    "longitude": -26.233846,
+    "address": "260 Example St, City 2, Canada"
+  },
+  {
+    "name": "Bar #104",
+    "type": "Traditional Pub",
+    "start": "26/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 67.152447,
+    "longitude": 29.791732,
+    "address": "633 Example St, City 3, Thailand"
+  },
+  {
+    "name": "Bar #105",
+    "type": "Beer Hall",
+    "start": "25/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -46.183945,
+    "longitude": -127.813402,
+    "address": "412 Example St, City 4, Russia"
+  },
+  {
+    "name": "Bar #106",
+    "type": "Lounge",
+    "start": "17/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 57.161938,
+    "longitude": -11.787601,
+    "address": "179 Example St, City 5, Germany"
+  },
+  {
+    "name": "Bar #107",
+    "type": "Rooftop Bar",
+    "start": "10/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -44.908051,
+    "longitude": -93.085218,
+    "address": "974 Example St, City 6, Russia"
+  },
+  {
+    "name": "Bar #108",
+    "type": "Brewpub",
+    "start": "29/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 62.277754,
+    "longitude": -53.468985,
+    "address": "517 Example St, City 7, South Africa"
+  },
+  {
+    "name": "Bar #109",
+    "type": "Sports Bar",
+    "start": "27/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -10.592187,
+    "longitude": -37.103347,
+    "address": "857 Example St, City 8, Australia"
+  },
+  {
+    "name": "Bar #110",
+    "type": "Sports Bar",
+    "start": "17/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -50.141287,
+    "longitude": 47.50106,
+    "address": "791 Example St, City 9, United States"
+  },
+  {
+    "name": "Bar #111",
+    "type": "Brewpub",
+    "start": "23/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 23.101158,
+    "longitude": 19.454701,
+    "address": "352 Example St, City 10, Australia"
+  },
+  {
+    "name": "Bar #112",
+    "type": "Traditional Pub",
+    "start": "31/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -20.065351,
+    "longitude": 143.626704,
+    "address": "915 Example St, City 11, Germany"
+  },
+  {
+    "name": "Bar #113",
+    "type": "Sports Bar",
+    "start": "07/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 49.709619,
+    "longitude": -84.395887,
+    "address": "679 Example St, City 12, France"
+  },
+  {
+    "name": "Bar #114",
+    "type": "Beer Hall",
+    "start": "26/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 17.109675,
+    "longitude": 17.966423,
+    "address": "310 Example St, City 13, Mexico"
+  },
+  {
+    "name": "Bar #115",
+    "type": "Beer Hall",
+    "start": "27/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 45.914969,
+    "longitude": -81.655462,
+    "address": "427 Example St, City 14, Spain"
+  },
+  {
+    "name": "Bar #116",
+    "type": "Sports Bar",
+    "start": "24/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -38.087587,
+    "longitude": -53.646615,
+    "address": "222 Example St, City 15, France"
+  },
+  {
+    "name": "Bar #117",
+    "type": "Beer Hall",
+    "start": "14/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 59.467757,
+    "longitude": -84.900198,
+    "address": "384 Example St, City 16, Vietnam"
+  },
+  {
+    "name": "Bar #118",
+    "type": "Sports Bar",
+    "start": "05/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -42.936504,
+    "longitude": -127.041561,
+    "address": "865 Example St, City 17, Japan"
+  },
+  {
+    "name": "Bar #119",
+    "type": "Brewpub",
+    "start": "24/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 5.727684,
+    "longitude": -53.922737,
+    "address": "961 Example St, City 18, India"
+  },
+  {
+    "name": "Bar #120",
+    "type": "Rooftop Bar",
+    "start": "15/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 65.10712,
+    "longitude": 115.311306,
+    "address": "803 Example St, City 19, Mexico"
+  },
+  {
+    "name": "Bar #121",
+    "type": "Brewpub",
+    "start": "02/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -31.758431,
+    "longitude": -52.473589,
+    "address": "862 Example St, City 20, Australia"
+  },
+  {
+    "name": "Bar #122",
+    "type": "Sports Bar",
+    "start": "17/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 63.181269,
+    "longitude": -72.109135,
+    "address": "791 Example St, City 21, Japan"
+  },
+  {
+    "name": "Bar #123",
+    "type": "Rooftop Bar",
+    "start": "27/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 8.51604,
+    "longitude": 2.952325,
+    "address": "229 Example St, City 22, Spain"
+  },
+  {
+    "name": "Bar #124",
+    "type": "Tapas Bar",
+    "start": "28/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 34.727394,
+    "longitude": 10.051812,
+    "address": "147 Example St, City 23, United Kingdom"
+  },
+  {
+    "name": "Bar #125",
+    "type": "Brewpub",
+    "start": "16/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -29.231056,
+    "longitude": -24.863247,
+    "address": "646 Example St, City 24, United Kingdom"
+  },
+  {
+    "name": "Bar #126",
+    "type": "Cocktail Bar",
+    "start": "25/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 48.673428,
+    "longitude": 144.791269,
+    "address": "316 Example St, City 25, India"
+  },
+  {
+    "name": "Bar #127",
+    "type": "Beer Hall",
+    "start": "11/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 43.441807,
+    "longitude": -93.567632,
+    "address": "64 Example St, City 26, United Kingdom"
+  },
+  {
+    "name": "Bar #128",
+    "type": "Lounge",
+    "start": "12/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -6.404158,
+    "longitude": 33.204046,
+    "address": "222 Example St, City 27, Sweden"
+  },
+  {
+    "name": "Bar #129",
+    "type": "Beer Hall",
+    "start": "02/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 42.323387,
+    "longitude": 36.680121,
+    "address": "347 Example St, City 28, United Kingdom"
+  },
+  {
+    "name": "Bar #130",
+    "type": "Beach Bar",
+    "start": "07/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -38.315906,
+    "longitude": 107.41706,
+    "address": "132 Example St, City 29, Germany"
+  },
+  {
+    "name": "Bar #131",
+    "type": "Beer Hall",
+    "start": "20/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 45.469629,
+    "longitude": -26.969195,
+    "address": "43 Example St, City 30, Australia"
+  },
+  {
+    "name": "Bar #132",
+    "type": "Rooftop Bar",
+    "start": "25/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 41.691786,
+    "longitude": -148.346203,
+    "address": "123 Example St, City 31, Argentina"
+  },
+  {
+    "name": "Bar #133",
+    "type": "Lounge",
+    "start": "15/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 62.785493,
+    "longitude": 74.826341,
+    "address": "544 Example St, City 32, India"
+  },
+  {
+    "name": "Bar #134",
+    "type": "Sports Bar",
+    "start": "05/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 32.371788,
+    "longitude": -46.246424,
+    "address": "700 Example St, City 33, Australia"
+  },
+  {
+    "name": "Bar #135",
+    "type": "Cocktail Bar",
+    "start": "31/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 6.945277,
+    "longitude": 146.321931,
+    "address": "187 Example St, City 34, India"
+  },
+  {
+    "name": "Bar #136",
+    "type": "Beach Bar",
+    "start": "15/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -3.289413,
+    "longitude": 140.815987,
+    "address": "64 Example St, City 35, Italy"
+  },
+  {
+    "name": "Bar #137",
+    "type": "Beer Hall",
+    "start": "27/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -31.41728,
+    "longitude": 142.693225,
+    "address": "132 Example St, City 36, Argentina"
+  },
+  {
+    "name": "Bar #138",
+    "type": "Lounge",
+    "start": "25/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 60.17414,
+    "longitude": 93.830242,
+    "address": "188 Example St, City 37, India"
+  },
+  {
+    "name": "Bar #139",
+    "type": "Wine Bar",
+    "start": "16/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -32.444289,
+    "longitude": 54.997816,
+    "address": "787 Example St, City 38, Mexico"
+  },
+  {
+    "name": "Bar #140",
+    "type": "Tapas Bar",
+    "start": "08/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 54.718304,
+    "longitude": -139.179958,
+    "address": "761 Example St, City 39, Brazil"
+  },
+  {
+    "name": "Bar #141",
+    "type": "Wine Bar",
+    "start": "16/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -26.136566,
+    "longitude": -106.003596,
+    "address": "703 Example St, City 40, United States"
+  },
+  {
+    "name": "Bar #142",
+    "type": "Cocktail Bar",
+    "start": "16/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 13.689874,
+    "longitude": -123.067302,
+    "address": "739 Example St, City 41, Italy"
+  },
+  {
+    "name": "Bar #143",
+    "type": "Traditional Pub",
+    "start": "13/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -56.664304,
+    "longitude": -64.332804,
+    "address": "307 Example St, City 42, Canada"
+  },
+  {
+    "name": "Bar #144",
+    "type": "Beer Hall",
+    "start": "30/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 11.387979,
+    "longitude": -46.732978,
+    "address": "483 Example St, City 43, Germany"
+  },
+  {
+    "name": "Bar #145",
+    "type": "Brewpub",
+    "start": "30/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -7.932439,
+    "longitude": 36.568928,
+    "address": "226 Example St, City 44, Germany"
+  },
+  {
+    "name": "Bar #146",
+    "type": "Beach Bar",
+    "start": "27/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 32.203407,
+    "longitude": -105.803957,
+    "address": "908 Example St, City 45, Australia"
+  },
+  {
+    "name": "Bar #147",
+    "type": "Wine Bar",
+    "start": "04/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 9.629944,
+    "longitude": -100.601115,
+    "address": "279 Example St, City 46, Mexico"
+  },
+  {
+    "name": "Bar #148",
+    "type": "Beer Hall",
+    "start": "17/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -18.251975,
+    "longitude": -25.272026,
+    "address": "484 Example St, City 47, Brazil"
+  },
+  {
+    "name": "Bar #149",
+    "type": "Traditional Pub",
+    "start": "09/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 69.567688,
+    "longitude": -91.964484,
+    "address": "420 Example St, City 48, Japan"
+  },
+  {
+    "name": "Bar #150",
+    "type": "Tapas Bar",
+    "start": "01/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 8.913873,
+    "longitude": 110.437126,
+    "address": "121 Example St, City 49, Vietnam"
+  },
+  {
+    "name": "Bar #151",
+    "type": "Rooftop Bar",
+    "start": "03/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -8.609266,
+    "longitude": -99.02453,
+    "address": "115 Example St, City 50, Netherlands"
+  },
+  {
+    "name": "Bar #152",
+    "type": "Rooftop Bar",
+    "start": "01/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 52.937629,
+    "longitude": 114.200915,
+    "address": "706 Example St, City 51, Russia"
+  },
+  {
+    "name": "Bar #153",
+    "type": "Lounge",
+    "start": "30/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 13.416311,
+    "longitude": -95.887068,
+    "address": "808 Example St, City 52, Mexico"
+  },
+  {
+    "name": "Bar #154",
+    "type": "Lounge",
+    "start": "11/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -40.358482,
+    "longitude": -134.206375,
+    "address": "184 Example St, City 53, United Kingdom"
+  },
+  {
+    "name": "Bar #155",
+    "type": "Cocktail Bar",
+    "start": "08/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -1.571214,
+    "longitude": 56.997413,
+    "address": "432 Example St, City 54, Canada"
+  },
+  {
+    "name": "Bar #156",
+    "type": "Beer Hall",
+    "start": "28/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 5.730795,
+    "longitude": -129.58283,
+    "address": "249 Example St, City 55, Mexico"
+  },
+  {
+    "name": "Bar #157",
+    "type": "Beer Hall",
+    "start": "09/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -48.00182,
+    "longitude": -122.075397,
+    "address": "697 Example St, City 56, Brazil"
+  },
+  {
+    "name": "Bar #158",
+    "type": "Tapas Bar",
+    "start": "13/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 1.261773,
+    "longitude": -137.92082,
+    "address": "121 Example St, City 57, Russia"
+  },
+  {
+    "name": "Bar #159",
+    "type": "Sports Bar",
+    "start": "11/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 48.015939,
+    "longitude": 33.468225,
+    "address": "287 Example St, City 58, France"
+  },
+  {
+    "name": "Bar #160",
+    "type": "Traditional Pub",
+    "start": "31/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -30.758994,
+    "longitude": 1.434976,
+    "address": "437 Example St, City 59, Russia"
+  },
+  {
+    "name": "Bar #161",
+    "type": "Rooftop Bar",
+    "start": "04/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -34.729389,
+    "longitude": 16.677654,
+    "address": "965 Example St, City 60, Spain"
+  },
+  {
+    "name": "Bar #162",
+    "type": "Cocktail Bar",
+    "start": "21/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 67.680175,
+    "longitude": -83.352546,
+    "address": "338 Example St, City 61, India"
+  },
+  {
+    "name": "Bar #163",
+    "type": "Brewpub",
+    "start": "01/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 21.465103,
+    "longitude": 143.008547,
+    "address": "946 Example St, City 62, United Kingdom"
+  },
+  {
+    "name": "Bar #164",
+    "type": "Beer Hall",
+    "start": "27/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 42.244692,
+    "longitude": 32.398648,
+    "address": "685 Example St, City 63, Argentina"
+  },
+  {
+    "name": "Bar #165",
+    "type": "Brewpub",
+    "start": "15/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 57.476353,
+    "longitude": 135.871511,
+    "address": "249 Example St, City 64, India"
+  },
+  {
+    "name": "Bar #166",
+    "type": "Tapas Bar",
+    "start": "08/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -53.287511,
+    "longitude": 10.461827,
+    "address": "494 Example St, City 65, Mexico"
+  },
+  {
+    "name": "Bar #167",
+    "type": "Traditional Pub",
+    "start": "06/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 3.425563,
+    "longitude": -134.960264,
+    "address": "148 Example St, City 66, Germany"
+  },
+  {
+    "name": "Bar #168",
+    "type": "Brewpub",
+    "start": "10/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -51.883339,
+    "longitude": -103.131592,
+    "address": "526 Example St, City 67, Ireland"
+  },
+  {
+    "name": "Bar #169",
+    "type": "Traditional Pub",
+    "start": "16/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 18.542467,
+    "longitude": -124.112183,
+    "address": "733 Example St, City 68, Thailand"
+  },
+  {
+    "name": "Bar #170",
+    "type": "Lounge",
+    "start": "25/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 29.330724,
+    "longitude": 57.972857,
+    "address": "888 Example St, City 69, Italy"
+  },
+  {
+    "name": "Bar #171",
+    "type": "Cocktail Bar",
+    "start": "21/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 41.314466,
+    "longitude": -72.839711,
+    "address": "849 Example St, City 70, India"
+  },
+  {
+    "name": "Bar #172",
+    "type": "Tapas Bar",
+    "start": "12/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -45.218361,
+    "longitude": 69.965416,
+    "address": "131 Example St, City 71, Ireland"
+  },
+  {
+    "name": "Bar #173",
+    "type": "Tapas Bar",
+    "start": "29/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -24.984836,
+    "longitude": -139.537268,
+    "address": "638 Example St, City 72, Argentina"
+  },
+  {
+    "name": "Bar #174",
+    "type": "Sports Bar",
+    "start": "02/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 14.905575,
+    "longitude": -126.632576,
+    "address": "779 Example St, City 73, Italy"
+  },
+  {
+    "name": "Bar #175",
+    "type": "Brewpub",
+    "start": "01/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 34.450792,
+    "longitude": -99.761461,
+    "address": "306 Example St, City 74, United States"
+  },
+  {
+    "name": "Bar #176",
+    "type": "Rooftop Bar",
+    "start": "31/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -8.044448,
+    "longitude": -123.902063,
+    "address": "834 Example St, City 75, Italy"
+  },
+  {
+    "name": "Bar #177",
+    "type": "Sports Bar",
+    "start": "21/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -3.930613,
+    "longitude": 111.121721,
+    "address": "542 Example St, City 76, Sweden"
+  },
+  {
+    "name": "Bar #178",
+    "type": "Sports Bar",
+    "start": "27/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 30.564686,
+    "longitude": -8.63035,
+    "address": "562 Example St, City 77, Russia"
+  },
+  {
+    "name": "Bar #179",
+    "type": "Brewpub",
+    "start": "29/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 36.261241,
+    "longitude": 59.932549,
+    "address": "918 Example St, City 78, Russia"
+  },
+  {
+    "name": "Bar #180",
+    "type": "Wine Bar",
+    "start": "12/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 38.078224,
+    "longitude": -52.464099,
+    "address": "810 Example St, City 79, Germany"
+  },
+  {
+    "name": "Bar #181",
+    "type": "Beach Bar",
+    "start": "15/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 19.902207,
+    "longitude": 56.162744,
+    "address": "648 Example St, City 80, Italy"
+  },
+  {
+    "name": "Bar #182",
+    "type": "Wine Bar",
+    "start": "26/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 8.414843,
+    "longitude": -97.149513,
+    "address": "302 Example St, City 81, South Africa"
+  },
+  {
+    "name": "Bar #183",
+    "type": "Wine Bar",
+    "start": "17/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 44.95561,
+    "longitude": 46.527361,
+    "address": "487 Example St, City 82, Germany"
+  },
+  {
+    "name": "Bar #184",
+    "type": "Beach Bar",
+    "start": "27/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -54.642283,
+    "longitude": -78.084247,
+    "address": "851 Example St, City 83, Russia"
+  },
+  {
+    "name": "Bar #185",
+    "type": "Beer Hall",
+    "start": "13/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -54.315095,
+    "longitude": -126.292023,
+    "address": "173 Example St, City 84, Mexico"
+  },
+  {
+    "name": "Bar #186",
+    "type": "Brewpub",
+    "start": "11/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -13.164438,
+    "longitude": 13.891199,
+    "address": "79 Example St, City 85, Australia"
+  },
+  {
+    "name": "Bar #187",
+    "type": "Beer Hall",
+    "start": "12/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 49.743206,
+    "longitude": -103.614511,
+    "address": "933 Example St, City 86, Argentina"
+  },
+  {
+    "name": "Bar #188",
+    "type": "Cocktail Bar",
+    "start": "04/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -41.515901,
+    "longitude": -82.266392,
+    "address": "817 Example St, City 87, Russia"
+  },
+  {
+    "name": "Bar #189",
+    "type": "Beer Hall",
+    "start": "15/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 61.591931,
+    "longitude": -130.522063,
+    "address": "148 Example St, City 88, Mexico"
+  },
+  {
+    "name": "Bar #190",
+    "type": "Beer Hall",
+    "start": "18/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 61.243777,
+    "longitude": 111.808517,
+    "address": "965 Example St, City 89, India"
+  },
+  {
+    "name": "Bar #191",
+    "type": "Brewpub",
+    "start": "24/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 61.041398,
+    "longitude": 114.222368,
+    "address": "152 Example St, City 90, Netherlands"
+  },
+  {
+    "name": "Bar #192",
+    "type": "Sports Bar",
+    "start": "02/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -13.552335,
+    "longitude": 88.599807,
+    "address": "626 Example St, City 91, United States"
+  },
+  {
+    "name": "Bar #193",
+    "type": "Sports Bar",
+    "start": "02/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 28.831356,
+    "longitude": 93.169584,
+    "address": "182 Example St, City 92, Canada"
+  },
+  {
+    "name": "Bar #194",
+    "type": "Cocktail Bar",
+    "start": "17/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 67.235771,
+    "longitude": -61.367189,
+    "address": "769 Example St, City 93, Mexico"
+  },
+  {
+    "name": "Bar #195",
+    "type": "Sports Bar",
+    "start": "22/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -4.907073,
+    "longitude": 126.258151,
+    "address": "528 Example St, City 94, Sweden"
+  },
+  {
+    "name": "Bar #196",
+    "type": "Wine Bar",
+    "start": "22/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 50.986932,
+    "longitude": -44.735002,
+    "address": "174 Example St, City 95, Vietnam"
+  },
+  {
+    "name": "Bar #197",
+    "type": "Tapas Bar",
+    "start": "24/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 17.852939,
+    "longitude": -136.693051,
+    "address": "959 Example St, City 96, Argentina"
+  },
+  {
+    "name": "Bar #198",
+    "type": "Rooftop Bar",
+    "start": "15/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -13.151945,
+    "longitude": 33.273239,
+    "address": "442 Example St, City 97, France"
+  },
+  {
+    "name": "Bar #199",
+    "type": "Sports Bar",
+    "start": "15/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 62.995782,
+    "longitude": -68.751703,
+    "address": "840 Example St, City 98, France"
+  },
+  {
+    "name": "Bar #200",
+    "type": "Rooftop Bar",
+    "start": "15/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -16.298873,
+    "longitude": 123.332314,
+    "address": "566 Example St, City 99, Japan"
+  },
+  {
+    "name": "Bar #201",
+    "type": "Brewpub",
+    "start": "24/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -10.954357,
+    "longitude": -99.844801,
+    "address": "29 Example St, City 0, Australia"
+  },
+  {
+    "name": "Bar #202",
+    "type": "Tapas Bar",
+    "start": "24/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 20.623452,
+    "longitude": 45.211558,
+    "address": "35 Example St, City 1, Italy"
+  },
+  {
+    "name": "Bar #203",
+    "type": "Lounge",
+    "start": "11/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -34.490305,
+    "longitude": -119.617694,
+    "address": "843 Example St, City 2, Australia"
+  },
+  {
+    "name": "Bar #204",
+    "type": "Lounge",
+    "start": "21/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -32.28931,
+    "longitude": 18.184383,
+    "address": "337 Example St, City 3, Netherlands"
+  },
+  {
+    "name": "Bar #205",
+    "type": "Cocktail Bar",
+    "start": "26/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -54.80441,
+    "longitude": 98.316582,
+    "address": "778 Example St, City 4, Italy"
+  },
+  {
+    "name": "Bar #206",
+    "type": "Lounge",
+    "start": "22/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 25.439817,
+    "longitude": -77.600773,
+    "address": "257 Example St, City 5, Netherlands"
+  },
+  {
+    "name": "Bar #207",
+    "type": "Beer Hall",
+    "start": "19/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 20.963095,
+    "longitude": 59.018964,
+    "address": "217 Example St, City 6, Australia"
+  },
+  {
+    "name": "Bar #208",
+    "type": "Beer Hall",
+    "start": "11/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 0.42574,
+    "longitude": 116.846929,
+    "address": "797 Example St, City 7, Argentina"
+  },
+  {
+    "name": "Bar #209",
+    "type": "Brewpub",
+    "start": "22/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -57.31527,
+    "longitude": 64.804391,
+    "address": "321 Example St, City 8, Spain"
+  },
+  {
+    "name": "Bar #210",
+    "type": "Beach Bar",
+    "start": "20/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -10.49168,
+    "longitude": 108.246484,
+    "address": "696 Example St, City 9, Netherlands"
+  },
+  {
+    "name": "Bar #211",
+    "type": "Traditional Pub",
+    "start": "09/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 36.709698,
+    "longitude": -20.854155,
+    "address": "107 Example St, City 10, Russia"
+  },
+  {
+    "name": "Bar #212",
+    "type": "Wine Bar",
+    "start": "26/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 53.637886,
+    "longitude": 39.7885,
+    "address": "13 Example St, City 11, Japan"
+  },
+  {
+    "name": "Bar #213",
+    "type": "Tapas Bar",
+    "start": "08/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -22.830754,
+    "longitude": -125.073325,
+    "address": "545 Example St, City 12, Vietnam"
+  },
+  {
+    "name": "Bar #214",
+    "type": "Sports Bar",
+    "start": "30/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -59.298541,
+    "longitude": 19.640075,
+    "address": "410 Example St, City 13, Germany"
+  },
+  {
+    "name": "Bar #215",
+    "type": "Beer Hall",
+    "start": "07/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 1.89257,
+    "longitude": 61.565926,
+    "address": "30 Example St, City 14, Canada"
+  },
+  {
+    "name": "Bar #216",
+    "type": "Traditional Pub",
+    "start": "26/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 3.754659,
+    "longitude": 146.519043,
+    "address": "713 Example St, City 15, Vietnam"
+  },
+  {
+    "name": "Bar #217",
+    "type": "Beach Bar",
+    "start": "15/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -50.239755,
+    "longitude": -120.757603,
+    "address": "962 Example St, City 16, United Kingdom"
+  },
+  {
+    "name": "Bar #218",
+    "type": "Wine Bar",
+    "start": "09/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -59.839048,
+    "longitude": 60.666271,
+    "address": "610 Example St, City 17, Argentina"
+  },
+  {
+    "name": "Bar #219",
+    "type": "Lounge",
+    "start": "09/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 67.212636,
+    "longitude": 34.339801,
+    "address": "493 Example St, City 18, India"
+  },
+  {
+    "name": "Bar #220",
+    "type": "Cocktail Bar",
+    "start": "26/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -43.511155,
+    "longitude": 2.717669,
+    "address": "881 Example St, City 19, Russia"
+  },
+  {
+    "name": "Bar #221",
+    "type": "Tapas Bar",
+    "start": "26/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -3.795288,
+    "longitude": -130.941241,
+    "address": "139 Example St, City 20, Mexico"
+  },
+  {
+    "name": "Bar #222",
+    "type": "Traditional Pub",
+    "start": "10/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 17.149626,
+    "longitude": -11.616859,
+    "address": "273 Example St, City 21, United Kingdom"
+  },
+  {
+    "name": "Bar #223",
+    "type": "Traditional Pub",
+    "start": "07/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -53.100313,
+    "longitude": -64.270165,
+    "address": "353 Example St, City 22, France"
+  },
+  {
+    "name": "Bar #224",
+    "type": "Cocktail Bar",
+    "start": "10/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 67.30799,
+    "longitude": -68.834619,
+    "address": "921 Example St, City 23, Vietnam"
+  },
+  {
+    "name": "Bar #225",
+    "type": "Cocktail Bar",
+    "start": "26/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 22.368956,
+    "longitude": 72.726961,
+    "address": "420 Example St, City 24, United States"
+  },
+  {
+    "name": "Bar #226",
+    "type": "Sports Bar",
+    "start": "31/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -39.031471,
+    "longitude": 96.292987,
+    "address": "595 Example St, City 25, Netherlands"
+  },
+  {
+    "name": "Bar #227",
+    "type": "Beach Bar",
+    "start": "09/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -30.567866,
+    "longitude": -125.397996,
+    "address": "40 Example St, City 26, United States"
+  },
+  {
+    "name": "Bar #228",
+    "type": "Beer Hall",
+    "start": "13/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -17.220369,
+    "longitude": 138.414444,
+    "address": "352 Example St, City 27, India"
+  },
+  {
+    "name": "Bar #229",
+    "type": "Brewpub",
+    "start": "28/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 67.356724,
+    "longitude": 43.174414,
+    "address": "657 Example St, City 28, Netherlands"
+  },
+  {
+    "name": "Bar #230",
+    "type": "Tapas Bar",
+    "start": "07/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -24.326197,
+    "longitude": -148.139772,
+    "address": "267 Example St, City 29, Mexico"
+  },
+  {
+    "name": "Bar #231",
+    "type": "Tapas Bar",
+    "start": "14/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 2.440312,
+    "longitude": -17.007247,
+    "address": "907 Example St, City 30, Italy"
+  },
+  {
+    "name": "Bar #232",
+    "type": "Cocktail Bar",
+    "start": "01/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 48.611349,
+    "longitude": 20.609865,
+    "address": "496 Example St, City 31, Netherlands"
+  },
+  {
+    "name": "Bar #233",
+    "type": "Tapas Bar",
+    "start": "27/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -33.503465,
+    "longitude": -30.854582,
+    "address": "338 Example St, City 32, Brazil"
+  },
+  {
+    "name": "Bar #234",
+    "type": "Brewpub",
+    "start": "08/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 69.599025,
+    "longitude": 91.69177,
+    "address": "161 Example St, City 33, Ireland"
+  },
+  {
+    "name": "Bar #235",
+    "type": "Sports Bar",
+    "start": "19/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 18.803206,
+    "longitude": 36.460785,
+    "address": "609 Example St, City 34, India"
+  },
+  {
+    "name": "Bar #236",
+    "type": "Wine Bar",
+    "start": "18/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 8.519159,
+    "longitude": -11.074992,
+    "address": "365 Example St, City 35, United Kingdom"
+  },
+  {
+    "name": "Bar #237",
+    "type": "Brewpub",
+    "start": "14/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -35.798926,
+    "longitude": -45.421278,
+    "address": "120 Example St, City 36, Thailand"
+  },
+  {
+    "name": "Bar #238",
+    "type": "Wine Bar",
+    "start": "04/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -54.752931,
+    "longitude": 65.14574,
+    "address": "815 Example St, City 37, Ireland"
+  },
+  {
+    "name": "Bar #239",
+    "type": "Wine Bar",
+    "start": "23/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -39.617731,
+    "longitude": -138.945052,
+    "address": "71 Example St, City 38, South Africa"
+  },
+  {
+    "name": "Bar #240",
+    "type": "Lounge",
+    "start": "11/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 20.330462,
+    "longitude": 51.433235,
+    "address": "565 Example St, City 39, Argentina"
+  },
+  {
+    "name": "Bar #241",
+    "type": "Wine Bar",
+    "start": "10/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -25.605712,
+    "longitude": 28.428677,
+    "address": "667 Example St, City 40, South Africa"
+  },
+  {
+    "name": "Bar #242",
+    "type": "Traditional Pub",
+    "start": "28/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -57.763821,
+    "longitude": -108.294722,
+    "address": "845 Example St, City 41, Japan"
+  },
+  {
+    "name": "Bar #243",
+    "type": "Lounge",
+    "start": "02/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 66.264517,
+    "longitude": 61.316748,
+    "address": "559 Example St, City 42, Canada"
+  },
+  {
+    "name": "Bar #244",
+    "type": "Beer Hall",
+    "start": "27/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 16.315436,
+    "longitude": -25.883897,
+    "address": "448 Example St, City 43, Thailand"
+  },
+  {
+    "name": "Bar #245",
+    "type": "Wine Bar",
+    "start": "31/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 18.095639,
+    "longitude": -16.824027,
+    "address": "777 Example St, City 44, Germany"
+  },
+  {
+    "name": "Bar #246",
+    "type": "Wine Bar",
+    "start": "06/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -29.27021,
+    "longitude": -72.09192,
+    "address": "431 Example St, City 45, Canada"
+  },
+  {
+    "name": "Bar #247",
+    "type": "Sports Bar",
+    "start": "23/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 63.39207,
+    "longitude": 71.358019,
+    "address": "823 Example St, City 46, Spain"
+  },
+  {
+    "name": "Bar #248",
+    "type": "Tapas Bar",
+    "start": "23/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -44.534663,
+    "longitude": -73.481807,
+    "address": "760 Example St, City 47, India"
+  },
+  {
+    "name": "Bar #249",
+    "type": "Traditional Pub",
+    "start": "23/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 41.7938,
+    "longitude": -63.463834,
+    "address": "657 Example St, City 48, Australia"
+  },
+  {
+    "name": "Bar #250",
+    "type": "Sports Bar",
+    "start": "23/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 26.412066,
+    "longitude": -38.19926,
+    "address": "525 Example St, City 49, United Kingdom"
+  },
+  {
+    "name": "Bar #251",
+    "type": "Wine Bar",
+    "start": "06/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -4.472315,
+    "longitude": 68.333572,
+    "address": "405 Example St, City 50, United States"
+  },
+  {
+    "name": "Bar #252",
+    "type": "Beach Bar",
+    "start": "11/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 38.585809,
+    "longitude": 139.793387,
+    "address": "104 Example St, City 51, Russia"
+  },
+  {
+    "name": "Bar #253",
+    "type": "Beer Hall",
+    "start": "09/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 22.539342,
+    "longitude": 23.980058,
+    "address": "735 Example St, City 52, Netherlands"
+  },
+  {
+    "name": "Bar #254",
+    "type": "Beer Hall",
+    "start": "17/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -30.122289,
+    "longitude": 83.648,
+    "address": "917 Example St, City 53, Canada"
+  },
+  {
+    "name": "Bar #255",
+    "type": "Beer Hall",
+    "start": "08/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 29.040807,
+    "longitude": -59.156992,
+    "address": "933 Example St, City 54, Germany"
+  },
+  {
+    "name": "Bar #256",
+    "type": "Beer Hall",
+    "start": "15/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -54.073227,
+    "longitude": -47.418574,
+    "address": "376 Example St, City 55, Russia"
+  },
+  {
+    "name": "Bar #257",
+    "type": "Brewpub",
+    "start": "14/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 14.152092,
+    "longitude": -32.174339,
+    "address": "556 Example St, City 56, Vietnam"
+  },
+  {
+    "name": "Bar #258",
+    "type": "Beer Hall",
+    "start": "03/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -27.665085,
+    "longitude": 38.919225,
+    "address": "909 Example St, City 57, Vietnam"
+  },
+  {
+    "name": "Bar #259",
+    "type": "Cocktail Bar",
+    "start": "29/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 30.476347,
+    "longitude": -111.756442,
+    "address": "814 Example St, City 58, Russia"
+  },
+  {
+    "name": "Bar #260",
+    "type": "Beer Hall",
+    "start": "29/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -29.142591,
+    "longitude": 118.600721,
+    "address": "134 Example St, City 59, United Kingdom"
+  },
+  {
+    "name": "Bar #261",
+    "type": "Cocktail Bar",
+    "start": "23/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 66.954651,
+    "longitude": -31.233995,
+    "address": "510 Example St, City 60, Spain"
+  },
+  {
+    "name": "Bar #262",
+    "type": "Tapas Bar",
+    "start": "12/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 39.01078,
+    "longitude": 33.694467,
+    "address": "148 Example St, City 61, Vietnam"
+  },
+  {
+    "name": "Bar #263",
+    "type": "Wine Bar",
+    "start": "29/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -8.943489,
+    "longitude": 107.320885,
+    "address": "772 Example St, City 62, Japan"
+  },
+  {
+    "name": "Bar #264",
+    "type": "Tapas Bar",
+    "start": "14/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 41.677524,
+    "longitude": -133.898154,
+    "address": "737 Example St, City 63, Argentina"
+  },
+  {
+    "name": "Bar #265",
+    "type": "Cocktail Bar",
+    "start": "28/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -42.610291,
+    "longitude": 18.908808,
+    "address": "536 Example St, City 64, India"
+  },
+  {
+    "name": "Bar #266",
+    "type": "Wine Bar",
+    "start": "23/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -5.403965,
+    "longitude": 87.547699,
+    "address": "58 Example St, City 65, Italy"
+  },
+  {
+    "name": "Bar #267",
+    "type": "Traditional Pub",
+    "start": "20/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -15.578716,
+    "longitude": -77.537176,
+    "address": "205 Example St, City 66, Thailand"
+  },
+  {
+    "name": "Bar #268",
+    "type": "Brewpub",
+    "start": "15/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 10.864571,
+    "longitude": 67.334174,
+    "address": "19 Example St, City 67, Brazil"
+  },
+  {
+    "name": "Bar #269",
+    "type": "Rooftop Bar",
+    "start": "15/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 38.086504,
+    "longitude": -129.499023,
+    "address": "212 Example St, City 68, India"
+  },
+  {
+    "name": "Bar #270",
+    "type": "Brewpub",
+    "start": "08/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 36.415397,
+    "longitude": 79.971113,
+    "address": "338 Example St, City 69, Italy"
+  },
+  {
+    "name": "Bar #271",
+    "type": "Tapas Bar",
+    "start": "14/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -33.074947,
+    "longitude": 143.316096,
+    "address": "529 Example St, City 70, Canada"
+  },
+  {
+    "name": "Bar #272",
+    "type": "Wine Bar",
+    "start": "21/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -18.42409,
+    "longitude": 26.015353,
+    "address": "373 Example St, City 71, Thailand"
+  },
+  {
+    "name": "Bar #273",
+    "type": "Beer Hall",
+    "start": "31/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -51.05998,
+    "longitude": -135.012391,
+    "address": "675 Example St, City 72, Sweden"
+  },
+  {
+    "name": "Bar #274",
+    "type": "Cocktail Bar",
+    "start": "01/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -49.74874,
+    "longitude": -35.020314,
+    "address": "165 Example St, City 73, United States"
+  },
+  {
+    "name": "Bar #275",
+    "type": "Traditional Pub",
+    "start": "01/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 7.379135,
+    "longitude": -115.000292,
+    "address": "836 Example St, City 74, India"
+  },
+  {
+    "name": "Bar #276",
+    "type": "Tapas Bar",
+    "start": "09/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -15.694956,
+    "longitude": -121.641678,
+    "address": "989 Example St, City 75, India"
+  },
+  {
+    "name": "Bar #277",
+    "type": "Tapas Bar",
+    "start": "26/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 5.180581,
+    "longitude": 16.09502,
+    "address": "32 Example St, City 76, Sweden"
+  },
+  {
+    "name": "Bar #278",
+    "type": "Wine Bar",
+    "start": "04/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 12.005453,
+    "longitude": -111.624801,
+    "address": "623 Example St, City 77, Argentina"
+  },
+  {
+    "name": "Bar #279",
+    "type": "Sports Bar",
+    "start": "21/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -49.373149,
+    "longitude": 46.081415,
+    "address": "212 Example St, City 78, Canada"
+  },
+  {
+    "name": "Bar #280",
+    "type": "Rooftop Bar",
+    "start": "31/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -36.555597,
+    "longitude": -20.196893,
+    "address": "645 Example St, City 79, South Africa"
+  },
+  {
+    "name": "Bar #281",
+    "type": "Brewpub",
+    "start": "17/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 5.968417,
+    "longitude": 7.251436,
+    "address": "378 Example St, City 80, United Kingdom"
+  },
+  {
+    "name": "Bar #282",
+    "type": "Rooftop Bar",
+    "start": "27/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 58.084909,
+    "longitude": -81.954605,
+    "address": "146 Example St, City 81, Netherlands"
+  },
+  {
+    "name": "Bar #283",
+    "type": "Beach Bar",
+    "start": "17/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -22.23171,
+    "longitude": -36.71506,
+    "address": "59 Example St, City 82, Brazil"
+  },
+  {
+    "name": "Bar #284",
+    "type": "Beer Hall",
+    "start": "20/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 36.718092,
+    "longitude": -65.061517,
+    "address": "572 Example St, City 83, Germany"
+  },
+  {
+    "name": "Bar #285",
+    "type": "Cocktail Bar",
+    "start": "29/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 12.651662,
+    "longitude": 62.972896,
+    "address": "981 Example St, City 84, Vietnam"
+  },
+  {
+    "name": "Bar #286",
+    "type": "Rooftop Bar",
+    "start": "15/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 37.806625,
+    "longitude": 3.124984,
+    "address": "463 Example St, City 85, Russia"
+  },
+  {
+    "name": "Bar #287",
+    "type": "Lounge",
+    "start": "10/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -7.029791,
+    "longitude": 103.953913,
+    "address": "22 Example St, City 86, United Kingdom"
+  },
+  {
+    "name": "Bar #288",
+    "type": "Beer Hall",
+    "start": "03/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -39.265382,
+    "longitude": -61.461777,
+    "address": "471 Example St, City 87, Japan"
+  },
+  {
+    "name": "Bar #289",
+    "type": "Beach Bar",
+    "start": "09/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 8.0787,
+    "longitude": -2.825304,
+    "address": "745 Example St, City 88, United Kingdom"
+  },
+  {
+    "name": "Bar #290",
+    "type": "Cocktail Bar",
+    "start": "01/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 52.003703,
+    "longitude": 81.354481,
+    "address": "307 Example St, City 89, Vietnam"
+  },
+  {
+    "name": "Bar #291",
+    "type": "Wine Bar",
+    "start": "16/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -1.900857,
+    "longitude": -114.820306,
+    "address": "485 Example St, City 90, South Africa"
+  },
+  {
+    "name": "Bar #292",
+    "type": "Beer Hall",
+    "start": "15/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 8.276228,
+    "longitude": 134.802556,
+    "address": "919 Example St, City 91, Italy"
+  },
+  {
+    "name": "Bar #293",
+    "type": "Wine Bar",
+    "start": "28/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -4.169904,
+    "longitude": 108.81833,
+    "address": "73 Example St, City 92, India"
+  },
+  {
+    "name": "Bar #294",
+    "type": "Beach Bar",
+    "start": "23/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 18.204046,
+    "longitude": 66.071157,
+    "address": "109 Example St, City 93, Argentina"
+  },
+  {
+    "name": "Bar #295",
+    "type": "Brewpub",
+    "start": "28/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -8.255677,
+    "longitude": -123.587388,
+    "address": "648 Example St, City 94, Mexico"
+  },
+  {
+    "name": "Bar #296",
+    "type": "Beer Hall",
+    "start": "04/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 35.244601,
+    "longitude": -128.24929,
+    "address": "267 Example St, City 95, India"
+  },
+  {
+    "name": "Bar #297",
+    "type": "Brewpub",
+    "start": "14/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -38.808217,
+    "longitude": 58.636586,
+    "address": "579 Example St, City 96, Spain"
+  },
+  {
+    "name": "Bar #298",
+    "type": "Sports Bar",
+    "start": "03/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -44.668326,
+    "longitude": 22.176296,
+    "address": "922 Example St, City 97, Russia"
+  },
+  {
+    "name": "Bar #299",
+    "type": "Brewpub",
+    "start": "19/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 60.446015,
+    "longitude": 146.148375,
+    "address": "302 Example St, City 98, Spain"
+  },
+  {
+    "name": "Bar #300",
+    "type": "Wine Bar",
+    "start": "06/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -44.521927,
+    "longitude": 59.407059,
+    "address": "881 Example St, City 99, United States"
+  },
+  {
+    "name": "Bar #301",
+    "type": "Brewpub",
+    "start": "08/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 29.179107,
+    "longitude": 91.846537,
+    "address": "385 Example St, City 0, United States"
+  },
+  {
+    "name": "Bar #302",
+    "type": "Cocktail Bar",
+    "start": "22/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -12.806239,
+    "longitude": -39.560041,
+    "address": "382 Example St, City 1, United Kingdom"
+  },
+  {
+    "name": "Bar #303",
+    "type": "Lounge",
+    "start": "19/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 28.2674,
+    "longitude": -62.378799,
+    "address": "244 Example St, City 2, France"
+  },
+  {
+    "name": "Bar #304",
+    "type": "Brewpub",
+    "start": "26/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 30.08804,
+    "longitude": 129.885839,
+    "address": "635 Example St, City 3, Australia"
+  },
+  {
+    "name": "Bar #305",
+    "type": "Sports Bar",
+    "start": "25/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -21.532293,
+    "longitude": 71.234585,
+    "address": "261 Example St, City 4, Argentina"
+  },
+  {
+    "name": "Bar #306",
+    "type": "Traditional Pub",
+    "start": "26/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 41.819114,
+    "longitude": 94.671486,
+    "address": "833 Example St, City 5, Brazil"
+  },
+  {
+    "name": "Bar #307",
+    "type": "Beach Bar",
+    "start": "03/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 60.676516,
+    "longitude": 59.494261,
+    "address": "921 Example St, City 6, France"
+  },
+  {
+    "name": "Bar #308",
+    "type": "Sports Bar",
+    "start": "07/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -39.733214,
+    "longitude": 119.303119,
+    "address": "563 Example St, City 7, Japan"
+  },
+  {
+    "name": "Bar #309",
+    "type": "Brewpub",
+    "start": "02/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -9.403812,
+    "longitude": 127.76108,
+    "address": "302 Example St, City 8, Netherlands"
+  },
+  {
+    "name": "Bar #310",
+    "type": "Beach Bar",
+    "start": "18/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -29.946258,
+    "longitude": -32.133797,
+    "address": "433 Example St, City 9, Ireland"
+  },
+  {
+    "name": "Bar #311",
+    "type": "Beach Bar",
+    "start": "03/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -18.436428,
+    "longitude": 17.811504,
+    "address": "436 Example St, City 10, Brazil"
+  },
+  {
+    "name": "Bar #312",
+    "type": "Wine Bar",
+    "start": "24/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 52.952544,
+    "longitude": 125.446885,
+    "address": "544 Example St, City 11, Thailand"
+  },
+  {
+    "name": "Bar #313",
+    "type": "Rooftop Bar",
+    "start": "22/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -47.428011,
+    "longitude": -42.163804,
+    "address": "347 Example St, City 12, Vietnam"
+  },
+  {
+    "name": "Bar #314",
+    "type": "Sports Bar",
+    "start": "19/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -1.318551,
+    "longitude": -72.092994,
+    "address": "541 Example St, City 13, Spain"
+  },
+  {
+    "name": "Bar #315",
+    "type": "Sports Bar",
+    "start": "13/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 64.258857,
+    "longitude": -123.934804,
+    "address": "397 Example St, City 14, Sweden"
+  },
+  {
+    "name": "Bar #316",
+    "type": "Brewpub",
+    "start": "10/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -28.167139,
+    "longitude": 21.310661,
+    "address": "103 Example St, City 15, India"
+  },
+  {
+    "name": "Bar #317",
+    "type": "Wine Bar",
+    "start": "21/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 21.434134,
+    "longitude": -8.918197,
+    "address": "358 Example St, City 16, India"
+  },
+  {
+    "name": "Bar #318",
+    "type": "Traditional Pub",
+    "start": "20/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 11.770584,
+    "longitude": -25.625594,
+    "address": "888 Example St, City 17, Argentina"
+  },
+  {
+    "name": "Bar #319",
+    "type": "Tapas Bar",
+    "start": "21/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -46.95629,
+    "longitude": 30.365016,
+    "address": "50 Example St, City 18, Spain"
+  },
+  {
+    "name": "Bar #320",
+    "type": "Traditional Pub",
+    "start": "02/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -9.585071,
+    "longitude": 123.400708,
+    "address": "696 Example St, City 19, South Africa"
+  },
+  {
+    "name": "Bar #321",
+    "type": "Lounge",
+    "start": "05/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 58.790585,
+    "longitude": -123.897208,
+    "address": "477 Example St, City 20, Australia"
+  },
+  {
+    "name": "Bar #322",
+    "type": "Tapas Bar",
+    "start": "01/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 65.450503,
+    "longitude": 145.309373,
+    "address": "550 Example St, City 21, Sweden"
+  },
+  {
+    "name": "Bar #323",
+    "type": "Beach Bar",
+    "start": "03/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 29.016757,
+    "longitude": -63.136459,
+    "address": "964 Example St, City 22, Russia"
+  },
+  {
+    "name": "Bar #324",
+    "type": "Cocktail Bar",
+    "start": "25/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 46.721776,
+    "longitude": -71.713076,
+    "address": "745 Example St, City 23, Spain"
+  },
+  {
+    "name": "Bar #325",
+    "type": "Traditional Pub",
+    "start": "05/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -43.751103,
+    "longitude": -142.92187,
+    "address": "908 Example St, City 24, Mexico"
+  },
+  {
+    "name": "Bar #326",
+    "type": "Sports Bar",
+    "start": "19/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -29.841014,
+    "longitude": 46.289558,
+    "address": "471 Example St, City 25, Canada"
+  },
+  {
+    "name": "Bar #327",
+    "type": "Beach Bar",
+    "start": "23/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -1.026873,
+    "longitude": 138.757173,
+    "address": "992 Example St, City 26, Spain"
+  },
+  {
+    "name": "Bar #328",
+    "type": "Beer Hall",
+    "start": "06/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -31.336252,
+    "longitude": -79.050708,
+    "address": "999 Example St, City 27, Canada"
+  },
+  {
+    "name": "Bar #329",
+    "type": "Sports Bar",
+    "start": "28/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 68.995796,
+    "longitude": -69.121441,
+    "address": "424 Example St, City 28, Thailand"
+  },
+  {
+    "name": "Bar #330",
+    "type": "Sports Bar",
+    "start": "17/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -44.314483,
+    "longitude": -0.581957,
+    "address": "791 Example St, City 29, United States"
+  },
+  {
+    "name": "Bar #331",
+    "type": "Lounge",
+    "start": "09/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 57.24318,
+    "longitude": 28.145061,
+    "address": "752 Example St, City 30, Sweden"
+  },
+  {
+    "name": "Bar #332",
+    "type": "Traditional Pub",
+    "start": "25/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 4.256214,
+    "longitude": -58.844688,
+    "address": "594 Example St, City 31, Vietnam"
+  },
+  {
+    "name": "Bar #333",
+    "type": "Cocktail Bar",
+    "start": "22/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 4.067895,
+    "longitude": 112.73641,
+    "address": "61 Example St, City 32, United States"
+  },
+  {
+    "name": "Bar #334",
+    "type": "Tapas Bar",
+    "start": "24/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -43.13846,
+    "longitude": 29.780733,
+    "address": "870 Example St, City 33, Canada"
+  },
+  {
+    "name": "Bar #335",
+    "type": "Brewpub",
+    "start": "13/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 20.168207,
+    "longitude": 90.272713,
+    "address": "943 Example St, City 34, Japan"
+  },
+  {
+    "name": "Bar #336",
+    "type": "Beer Hall",
+    "start": "24/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -5.875938,
+    "longitude": -64.070999,
+    "address": "396 Example St, City 35, Spain"
+  },
+  {
+    "name": "Bar #337",
+    "type": "Brewpub",
+    "start": "27/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 34.683867,
+    "longitude": 112.440492,
+    "address": "778 Example St, City 36, Spain"
+  },
+  {
+    "name": "Bar #338",
+    "type": "Cocktail Bar",
+    "start": "29/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 68.317546,
+    "longitude": 50.895783,
+    "address": "660 Example St, City 37, United States"
+  },
+  {
+    "name": "Bar #339",
+    "type": "Lounge",
+    "start": "03/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -28.116817,
+    "longitude": -99.891355,
+    "address": "625 Example St, City 38, South Africa"
+  },
+  {
+    "name": "Bar #340",
+    "type": "Tapas Bar",
+    "start": "14/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 13.161149,
+    "longitude": 41.079305,
+    "address": "135 Example St, City 39, Vietnam"
+  },
+  {
+    "name": "Bar #341",
+    "type": "Wine Bar",
+    "start": "09/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -7.107234,
+    "longitude": -104.020718,
+    "address": "189 Example St, City 40, United Kingdom"
+  },
+  {
+    "name": "Bar #342",
+    "type": "Beer Hall",
+    "start": "08/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 8.695126,
+    "longitude": 86.153286,
+    "address": "523 Example St, City 41, France"
+  },
+  {
+    "name": "Bar #343",
+    "type": "Lounge",
+    "start": "11/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -12.906504,
+    "longitude": -141.543789,
+    "address": "716 Example St, City 42, United States"
+  },
+  {
+    "name": "Bar #344",
+    "type": "Beach Bar",
+    "start": "06/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -24.146697,
+    "longitude": -111.160839,
+    "address": "123 Example St, City 43, Japan"
+  },
+  {
+    "name": "Bar #345",
+    "type": "Rooftop Bar",
+    "start": "23/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 55.380137,
+    "longitude": 109.716849,
+    "address": "143 Example St, City 44, Brazil"
+  },
+  {
+    "name": "Bar #346",
+    "type": "Lounge",
+    "start": "19/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -41.728013,
+    "longitude": 69.56769,
+    "address": "617 Example St, City 45, Russia"
+  },
+  {
+    "name": "Bar #347",
+    "type": "Rooftop Bar",
+    "start": "31/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 25.572954,
+    "longitude": 122.917107,
+    "address": "422 Example St, City 46, Germany"
+  },
+  {
+    "name": "Bar #348",
+    "type": "Cocktail Bar",
+    "start": "24/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -59.002469,
+    "longitude": -62.719899,
+    "address": "24 Example St, City 47, Russia"
+  },
+  {
+    "name": "Bar #349",
+    "type": "Beach Bar",
+    "start": "31/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -45.850256,
+    "longitude": 69.707376,
+    "address": "1 Example St, City 48, France"
+  },
+  {
+    "name": "Bar #350",
+    "type": "Traditional Pub",
+    "start": "22/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -43.416623,
+    "longitude": 125.723366,
+    "address": "902 Example St, City 49, Mexico"
+  },
+  {
+    "name": "Bar #351",
+    "type": "Sports Bar",
+    "start": "02/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 20.87579,
+    "longitude": -70.513057,
+    "address": "601 Example St, City 50, Russia"
+  },
+  {
+    "name": "Bar #352",
+    "type": "Lounge",
+    "start": "27/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -45.067026,
+    "longitude": 64.275681,
+    "address": "171 Example St, City 51, Russia"
+  },
+  {
+    "name": "Bar #353",
+    "type": "Beach Bar",
+    "start": "05/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 18.417493,
+    "longitude": -111.877703,
+    "address": "195 Example St, City 52, Thailand"
+  },
+  {
+    "name": "Bar #354",
+    "type": "Tapas Bar",
+    "start": "06/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -38.316558,
+    "longitude": 77.336546,
+    "address": "197 Example St, City 53, Japan"
+  },
+  {
+    "name": "Bar #355",
+    "type": "Sports Bar",
+    "start": "20/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -23.480839,
+    "longitude": -96.190118,
+    "address": "494 Example St, City 54, Germany"
+  },
+  {
+    "name": "Bar #356",
+    "type": "Beer Hall",
+    "start": "22/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -20.172733,
+    "longitude": 50.874564,
+    "address": "784 Example St, City 55, Sweden"
+  },
+  {
+    "name": "Bar #357",
+    "type": "Rooftop Bar",
+    "start": "16/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 19.476856,
+    "longitude": 14.606422,
+    "address": "416 Example St, City 56, India"
+  },
+  {
+    "name": "Bar #358",
+    "type": "Lounge",
+    "start": "06/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 39.326557,
+    "longitude": 77.259525,
+    "address": "825 Example St, City 57, Spain"
+  },
+  {
+    "name": "Bar #359",
+    "type": "Lounge",
+    "start": "05/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 21.607802,
+    "longitude": -27.279976,
+    "address": "738 Example St, City 58, Italy"
+  },
+  {
+    "name": "Bar #360",
+    "type": "Brewpub",
+    "start": "06/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 61.231917,
+    "longitude": 141.35625,
+    "address": "857 Example St, City 59, India"
+  },
+  {
+    "name": "Bar #361",
+    "type": "Rooftop Bar",
+    "start": "01/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 18.827023,
+    "longitude": -42.936573,
+    "address": "40 Example St, City 60, Sweden"
+  },
+  {
+    "name": "Bar #362",
+    "type": "Wine Bar",
+    "start": "02/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 17.66217,
+    "longitude": -129.785068,
+    "address": "247 Example St, City 61, Vietnam"
+  },
+  {
+    "name": "Bar #363",
+    "type": "Cocktail Bar",
+    "start": "11/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 16.201163,
+    "longitude": -116.690209,
+    "address": "525 Example St, City 62, India"
+  },
+  {
+    "name": "Bar #364",
+    "type": "Traditional Pub",
+    "start": "01/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 49.076028,
+    "longitude": 75.588815,
+    "address": "581 Example St, City 63, Japan"
+  },
+  {
+    "name": "Bar #365",
+    "type": "Lounge",
+    "start": "01/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 35.495579,
+    "longitude": 91.111708,
+    "address": "142 Example St, City 64, Spain"
+  },
+  {
+    "name": "Bar #366",
+    "type": "Lounge",
+    "start": "11/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 62.093447,
+    "longitude": -80.80747,
+    "address": "548 Example St, City 65, Brazil"
+  },
+  {
+    "name": "Bar #367",
+    "type": "Sports Bar",
+    "start": "10/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -18.104501,
+    "longitude": 57.162205,
+    "address": "609 Example St, City 66, Russia"
+  },
+  {
+    "name": "Bar #368",
+    "type": "Tapas Bar",
+    "start": "21/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 17.337214,
+    "longitude": -77.848595,
+    "address": "539 Example St, City 67, Argentina"
+  },
+  {
+    "name": "Bar #369",
+    "type": "Beer Hall",
+    "start": "01/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -27.849817,
+    "longitude": -73.350533,
+    "address": "406 Example St, City 68, Italy"
+  },
+  {
+    "name": "Bar #370",
+    "type": "Tapas Bar",
+    "start": "26/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -52.80164,
+    "longitude": -140.454736,
+    "address": "998 Example St, City 69, Brazil"
+  },
+  {
+    "name": "Bar #371",
+    "type": "Traditional Pub",
+    "start": "02/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 18.222047,
+    "longitude": 68.617149,
+    "address": "517 Example St, City 70, Japan"
+  },
+  {
+    "name": "Bar #372",
+    "type": "Brewpub",
+    "start": "18/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 37.100462,
+    "longitude": -81.229169,
+    "address": "332 Example St, City 71, Netherlands"
+  },
+  {
+    "name": "Bar #373",
+    "type": "Rooftop Bar",
+    "start": "24/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -48.132653,
+    "longitude": -55.623665,
+    "address": "906 Example St, City 72, Thailand"
+  },
+  {
+    "name": "Bar #374",
+    "type": "Beer Hall",
+    "start": "30/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 49.431767,
+    "longitude": -129.160688,
+    "address": "479 Example St, City 73, South Africa"
+  },
+  {
+    "name": "Bar #375",
+    "type": "Beer Hall",
+    "start": "03/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -9.868758,
+    "longitude": -33.544006,
+    "address": "875 Example St, City 74, Germany"
+  },
+  {
+    "name": "Bar #376",
+    "type": "Lounge",
+    "start": "21/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 66.109409,
+    "longitude": 22.537055,
+    "address": "173 Example St, City 75, Canada"
+  },
+  {
+    "name": "Bar #377",
+    "type": "Traditional Pub",
+    "start": "13/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 2.342626,
+    "longitude": 65.084387,
+    "address": "227 Example St, City 76, Brazil"
+  },
+  {
+    "name": "Bar #378",
+    "type": "Beach Bar",
+    "start": "23/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 32.360203,
+    "longitude": -11.238383,
+    "address": "897 Example St, City 77, Australia"
+  },
+  {
+    "name": "Bar #379",
+    "type": "Lounge",
+    "start": "26/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -40.685236,
+    "longitude": 120.763642,
+    "address": "957 Example St, City 78, India"
+  },
+  {
+    "name": "Bar #380",
+    "type": "Wine Bar",
+    "start": "06/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 5.459821,
+    "longitude": -86.793663,
+    "address": "111 Example St, City 79, Japan"
+  },
+  {
+    "name": "Bar #381",
+    "type": "Wine Bar",
+    "start": "30/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -2.769573,
+    "longitude": 27.442902,
+    "address": "242 Example St, City 80, South Africa"
+  },
+  {
+    "name": "Bar #382",
+    "type": "Beer Hall",
+    "start": "20/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -31.297358,
+    "longitude": 12.907589,
+    "address": "538 Example St, City 81, South Africa"
+  },
+  {
+    "name": "Bar #383",
+    "type": "Tapas Bar",
+    "start": "27/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -13.496661,
+    "longitude": 94.439248,
+    "address": "129 Example St, City 82, United Kingdom"
+  },
+  {
+    "name": "Bar #384",
+    "type": "Sports Bar",
+    "start": "28/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 67.569559,
+    "longitude": -36.250385,
+    "address": "696 Example St, City 83, Italy"
+  },
+  {
+    "name": "Bar #385",
+    "type": "Cocktail Bar",
+    "start": "12/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -20.720842,
+    "longitude": -91.045873,
+    "address": "619 Example St, City 84, Canada"
+  },
+  {
+    "name": "Bar #386",
+    "type": "Beer Hall",
+    "start": "06/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 18.364013,
+    "longitude": -144.394358,
+    "address": "471 Example St, City 85, India"
+  },
+  {
+    "name": "Bar #387",
+    "type": "Beer Hall",
+    "start": "05/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -49.615794,
+    "longitude": 43.720473,
+    "address": "111 Example St, City 86, France"
+  },
+  {
+    "name": "Bar #388",
+    "type": "Beer Hall",
+    "start": "15/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 52.593227,
+    "longitude": 125.768719,
+    "address": "144 Example St, City 87, Japan"
+  },
+  {
+    "name": "Bar #389",
+    "type": "Beach Bar",
+    "start": "06/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -0.908704,
+    "longitude": -146.952964,
+    "address": "619 Example St, City 88, Vietnam"
+  },
+  {
+    "name": "Bar #390",
+    "type": "Sports Bar",
+    "start": "08/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 39.853151,
+    "longitude": -86.5126,
+    "address": "585 Example St, City 89, Japan"
+  },
+  {
+    "name": "Bar #391",
+    "type": "Lounge",
+    "start": "05/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -11.852824,
+    "longitude": -134.616302,
+    "address": "366 Example St, City 90, Sweden"
+  },
+  {
+    "name": "Bar #392",
+    "type": "Traditional Pub",
+    "start": "14/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -46.190855,
+    "longitude": 15.805685,
+    "address": "408 Example St, City 91, Argentina"
+  },
+  {
+    "name": "Bar #393",
+    "type": "Brewpub",
+    "start": "31/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -3.874661,
+    "longitude": -94.876574,
+    "address": "99 Example St, City 92, South Africa"
+  },
+  {
+    "name": "Bar #394",
+    "type": "Rooftop Bar",
+    "start": "21/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -53.03316,
+    "longitude": 72.426086,
+    "address": "158 Example St, City 93, Netherlands"
+  },
+  {
+    "name": "Bar #395",
+    "type": "Brewpub",
+    "start": "07/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 5.396234,
+    "longitude": 58.080749,
+    "address": "646 Example St, City 94, Netherlands"
+  },
+  {
+    "name": "Bar #396",
+    "type": "Beer Hall",
+    "start": "05/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 35.846754,
+    "longitude": 147.366809,
+    "address": "620 Example St, City 95, Argentina"
+  },
+  {
+    "name": "Bar #397",
+    "type": "Cocktail Bar",
+    "start": "22/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -20.171702,
+    "longitude": -106.480032,
+    "address": "954 Example St, City 96, France"
+  },
+  {
+    "name": "Bar #398",
+    "type": "Beach Bar",
+    "start": "31/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -14.637909,
+    "longitude": -149.785057,
+    "address": "366 Example St, City 97, Russia"
+  },
+  {
+    "name": "Bar #399",
+    "type": "Beer Hall",
+    "start": "31/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -42.229843,
+    "longitude": -90.40982,
+    "address": "280 Example St, City 98, South Africa"
+  },
+  {
+    "name": "Bar #400",
+    "type": "Beer Hall",
+    "start": "07/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -14.720274,
+    "longitude": -47.333554,
+    "address": "63 Example St, City 99, Sweden"
+  },
+  {
+    "name": "Bar #401",
+    "type": "Brewpub",
+    "start": "21/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 29.296334,
+    "longitude": 0.179582,
+    "address": "944 Example St, City 0, Vietnam"
+  },
+  {
+    "name": "Bar #402",
+    "type": "Cocktail Bar",
+    "start": "27/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 43.854414,
+    "longitude": -37.980983,
+    "address": "980 Example St, City 1, France"
+  },
+  {
+    "name": "Bar #403",
+    "type": "Wine Bar",
+    "start": "14/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -49.40617,
+    "longitude": 3.824095,
+    "address": "777 Example St, City 2, Brazil"
+  },
+  {
+    "name": "Bar #404",
+    "type": "Wine Bar",
+    "start": "23/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -47.962861,
+    "longitude": -56.036215,
+    "address": "727 Example St, City 3, Sweden"
+  },
+  {
+    "name": "Bar #405",
+    "type": "Rooftop Bar",
+    "start": "15/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 65.835295,
+    "longitude": 43.584067,
+    "address": "829 Example St, City 4, United States"
+  },
+  {
+    "name": "Bar #406",
+    "type": "Brewpub",
+    "start": "09/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 13.470866,
+    "longitude": -119.052095,
+    "address": "761 Example St, City 5, Germany"
+  },
+  {
+    "name": "Bar #407",
+    "type": "Lounge",
+    "start": "22/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 31.080821,
+    "longitude": -4.420575,
+    "address": "38 Example St, City 6, Mexico"
+  },
+  {
+    "name": "Bar #408",
+    "type": "Tapas Bar",
+    "start": "30/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -9.485945,
+    "longitude": 132.143994,
+    "address": "486 Example St, City 7, South Africa"
+  },
+  {
+    "name": "Bar #409",
+    "type": "Brewpub",
+    "start": "17/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 9.104387,
+    "longitude": 53.376246,
+    "address": "934 Example St, City 8, Spain"
+  },
+  {
+    "name": "Bar #410",
+    "type": "Beer Hall",
+    "start": "28/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 38.258655,
+    "longitude": -28.04024,
+    "address": "488 Example St, City 9, Russia"
+  },
+  {
+    "name": "Bar #411",
+    "type": "Cocktail Bar",
+    "start": "07/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 43.248188,
+    "longitude": 29.257164,
+    "address": "462 Example St, City 10, Netherlands"
+  },
+  {
+    "name": "Bar #412",
+    "type": "Lounge",
+    "start": "22/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 49.422653,
+    "longitude": 25.592526,
+    "address": "808 Example St, City 11, United Kingdom"
+  },
+  {
+    "name": "Bar #413",
+    "type": "Traditional Pub",
+    "start": "01/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -22.041249,
+    "longitude": 103.144803,
+    "address": "746 Example St, City 12, Spain"
+  },
+  {
+    "name": "Bar #414",
+    "type": "Beer Hall",
+    "start": "22/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -34.091677,
+    "longitude": 41.6561,
+    "address": "200 Example St, City 13, Argentina"
+  },
+  {
+    "name": "Bar #415",
+    "type": "Beer Hall",
+    "start": "29/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 8.175488,
+    "longitude": -66.377614,
+    "address": "382 Example St, City 14, Netherlands"
+  },
+  {
+    "name": "Bar #416",
+    "type": "Tapas Bar",
+    "start": "30/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 8.186791,
+    "longitude": 77.008461,
+    "address": "609 Example St, City 15, Netherlands"
+  },
+  {
+    "name": "Bar #417",
+    "type": "Cocktail Bar",
+    "start": "09/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 69.683051,
+    "longitude": -99.805201,
+    "address": "902 Example St, City 16, Japan"
+  },
+  {
+    "name": "Bar #418",
+    "type": "Lounge",
+    "start": "19/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 35.159677,
+    "longitude": -94.070624,
+    "address": "285 Example St, City 17, Spain"
+  },
+  {
+    "name": "Bar #419",
+    "type": "Beer Hall",
+    "start": "01/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 69.37265,
+    "longitude": 44.41908,
+    "address": "401 Example St, City 18, United States"
+  },
+  {
+    "name": "Bar #420",
+    "type": "Beach Bar",
+    "start": "29/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 66.030548,
+    "longitude": -134.473511,
+    "address": "808 Example St, City 19, France"
+  },
+  {
+    "name": "Bar #421",
+    "type": "Tapas Bar",
+    "start": "26/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 6.293697,
+    "longitude": 113.656964,
+    "address": "790 Example St, City 20, Vietnam"
+  },
+  {
+    "name": "Bar #422",
+    "type": "Sports Bar",
+    "start": "14/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 12.27014,
+    "longitude": 100.797082,
+    "address": "52 Example St, City 21, Germany"
+  },
+  {
+    "name": "Bar #423",
+    "type": "Tapas Bar",
+    "start": "03/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 53.500209,
+    "longitude": -34.999663,
+    "address": "124 Example St, City 22, Brazil"
+  },
+  {
+    "name": "Bar #424",
+    "type": "Tapas Bar",
+    "start": "01/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -55.858535,
+    "longitude": 75.035415,
+    "address": "972 Example St, City 23, United States"
+  },
+  {
+    "name": "Bar #425",
+    "type": "Lounge",
+    "start": "14/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -5.048016,
+    "longitude": 37.597849,
+    "address": "908 Example St, City 24, Ireland"
+  },
+  {
+    "name": "Bar #426",
+    "type": "Traditional Pub",
+    "start": "23/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 26.352804,
+    "longitude": 145.893007,
+    "address": "184 Example St, City 25, Vietnam"
+  },
+  {
+    "name": "Bar #427",
+    "type": "Rooftop Bar",
+    "start": "01/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -3.057807,
+    "longitude": -32.609203,
+    "address": "782 Example St, City 26, Canada"
+  },
+  {
+    "name": "Bar #428",
+    "type": "Rooftop Bar",
+    "start": "05/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -39.975043,
+    "longitude": -23.105709,
+    "address": "148 Example St, City 27, Brazil"
+  },
+  {
+    "name": "Bar #429",
+    "type": "Beach Bar",
+    "start": "05/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 59.525129,
+    "longitude": -106.747349,
+    "address": "453 Example St, City 28, South Africa"
+  },
+  {
+    "name": "Bar #430",
+    "type": "Traditional Pub",
+    "start": "29/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 43.32593,
+    "longitude": 120.651656,
+    "address": "46 Example St, City 29, Italy"
+  },
+  {
+    "name": "Bar #431",
+    "type": "Beer Hall",
+    "start": "15/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 37.734986,
+    "longitude": -73.468736,
+    "address": "487 Example St, City 30, India"
+  },
+  {
+    "name": "Bar #432",
+    "type": "Tapas Bar",
+    "start": "14/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 35.947352,
+    "longitude": -77.622735,
+    "address": "219 Example St, City 31, Ireland"
+  },
+  {
+    "name": "Bar #433",
+    "type": "Rooftop Bar",
+    "start": "31/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 21.383912,
+    "longitude": 26.328577,
+    "address": "781 Example St, City 32, Ireland"
+  },
+  {
+    "name": "Bar #434",
+    "type": "Traditional Pub",
+    "start": "19/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 47.131105,
+    "longitude": -15.03655,
+    "address": "953 Example St, City 33, Sweden"
+  },
+  {
+    "name": "Bar #435",
+    "type": "Beer Hall",
+    "start": "19/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -51.860434,
+    "longitude": -51.732632,
+    "address": "542 Example St, City 34, Thailand"
+  },
+  {
+    "name": "Bar #436",
+    "type": "Brewpub",
+    "start": "24/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -13.747227,
+    "longitude": 17.337356,
+    "address": "205 Example St, City 35, United States"
+  },
+  {
+    "name": "Bar #437",
+    "type": "Tapas Bar",
+    "start": "17/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 6.869285,
+    "longitude": 121.919815,
+    "address": "835 Example St, City 36, Ireland"
+  },
+  {
+    "name": "Bar #438",
+    "type": "Beach Bar",
+    "start": "23/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 5.663286,
+    "longitude": -73.040262,
+    "address": "963 Example St, City 37, Sweden"
+  },
+  {
+    "name": "Bar #439",
+    "type": "Traditional Pub",
+    "start": "15/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 48.200959,
+    "longitude": 78.003145,
+    "address": "405 Example St, City 38, Italy"
+  },
+  {
+    "name": "Bar #440",
+    "type": "Rooftop Bar",
+    "start": "05/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 51.40113,
+    "longitude": 148.286454,
+    "address": "844 Example St, City 39, Ireland"
+  },
+  {
+    "name": "Bar #441",
+    "type": "Brewpub",
+    "start": "04/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -19.341531,
+    "longitude": 130.426491,
+    "address": "852 Example St, City 40, Canada"
+  },
+  {
+    "name": "Bar #442",
+    "type": "Traditional Pub",
+    "start": "03/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -27.686807,
+    "longitude": -120.49948,
+    "address": "986 Example St, City 41, Vietnam"
+  },
+  {
+    "name": "Bar #443",
+    "type": "Traditional Pub",
+    "start": "20/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 62.054323,
+    "longitude": -128.353112,
+    "address": "536 Example St, City 42, Japan"
+  },
+  {
+    "name": "Bar #444",
+    "type": "Brewpub",
+    "start": "09/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -6.778869,
+    "longitude": 131.283677,
+    "address": "728 Example St, City 43, Thailand"
+  },
+  {
+    "name": "Bar #445",
+    "type": "Sports Bar",
+    "start": "19/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 9.387964,
+    "longitude": -89.420705,
+    "address": "261 Example St, City 44, South Africa"
+  },
+  {
+    "name": "Bar #446",
+    "type": "Tapas Bar",
+    "start": "20/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -36.280319,
+    "longitude": -62.600067,
+    "address": "31 Example St, City 45, Ireland"
+  },
+  {
+    "name": "Bar #447",
+    "type": "Rooftop Bar",
+    "start": "07/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -16.375898,
+    "longitude": -127.297895,
+    "address": "156 Example St, City 46, Mexico"
+  },
+  {
+    "name": "Bar #448",
+    "type": "Brewpub",
+    "start": "27/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 40.687924,
+    "longitude": -32.73811,
+    "address": "938 Example St, City 47, Canada"
+  },
+  {
+    "name": "Bar #449",
+    "type": "Beach Bar",
+    "start": "03/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 20.493197,
+    "longitude": 98.13942,
+    "address": "865 Example St, City 48, France"
+  },
+  {
+    "name": "Bar #450",
+    "type": "Beer Hall",
+    "start": "15/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -38.573787,
+    "longitude": -140.674182,
+    "address": "307 Example St, City 49, Netherlands"
+  },
+  {
+    "name": "Bar #451",
+    "type": "Rooftop Bar",
+    "start": "14/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -57.186625,
+    "longitude": 130.50671,
+    "address": "113 Example St, City 50, India"
+  },
+  {
+    "name": "Bar #452",
+    "type": "Wine Bar",
+    "start": "13/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 7.796329,
+    "longitude": 14.070825,
+    "address": "958 Example St, City 51, Mexico"
+  },
+  {
+    "name": "Bar #453",
+    "type": "Brewpub",
+    "start": "03/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -54.730066,
+    "longitude": -124.66983,
+    "address": "768 Example St, City 52, Japan"
+  },
+  {
+    "name": "Bar #454",
+    "type": "Lounge",
+    "start": "08/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -16.610372,
+    "longitude": -107.607127,
+    "address": "967 Example St, City 53, Netherlands"
+  },
+  {
+    "name": "Bar #455",
+    "type": "Beer Hall",
+    "start": "06/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -12.429932,
+    "longitude": -108.26014,
+    "address": "609 Example St, City 54, Russia"
+  },
+  {
+    "name": "Bar #456",
+    "type": "Wine Bar",
+    "start": "12/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -28.474736,
+    "longitude": -55.096045,
+    "address": "978 Example St, City 55, India"
+  },
+  {
+    "name": "Bar #457",
+    "type": "Cocktail Bar",
+    "start": "23/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 13.972621,
+    "longitude": 25.370135,
+    "address": "674 Example St, City 56, Germany"
+  },
+  {
+    "name": "Bar #458",
+    "type": "Sports Bar",
+    "start": "07/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 28.488836,
+    "longitude": -29.416276,
+    "address": "191 Example St, City 57, Italy"
+  },
+  {
+    "name": "Bar #459",
+    "type": "Tapas Bar",
+    "start": "30/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 51.774043,
+    "longitude": -59.940596,
+    "address": "947 Example St, City 58, France"
+  },
+  {
+    "name": "Bar #460",
+    "type": "Tapas Bar",
+    "start": "21/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -28.402268,
+    "longitude": 142.531863,
+    "address": "310 Example St, City 59, United Kingdom"
+  },
+  {
+    "name": "Bar #461",
+    "type": "Brewpub",
+    "start": "23/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -11.564093,
+    "longitude": -25.855908,
+    "address": "200 Example St, City 60, Netherlands"
+  },
+  {
+    "name": "Bar #462",
+    "type": "Beach Bar",
+    "start": "20/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 44.541391,
+    "longitude": 40.134309,
+    "address": "755 Example St, City 61, Netherlands"
+  },
+  {
+    "name": "Bar #463",
+    "type": "Sports Bar",
+    "start": "26/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -43.915331,
+    "longitude": 71.963718,
+    "address": "267 Example St, City 62, Germany"
+  },
+  {
+    "name": "Bar #464",
+    "type": "Cocktail Bar",
+    "start": "21/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 60.262383,
+    "longitude": -48.036531,
+    "address": "290 Example St, City 63, Sweden"
+  },
+  {
+    "name": "Bar #465",
+    "type": "Wine Bar",
+    "start": "03/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -39.588875,
+    "longitude": -16.863636,
+    "address": "158 Example St, City 64, Germany"
+  },
+  {
+    "name": "Bar #466",
+    "type": "Beer Hall",
+    "start": "17/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -13.831208,
+    "longitude": 34.184897,
+    "address": "586 Example St, City 65, Germany"
+  },
+  {
+    "name": "Bar #467",
+    "type": "Beer Hall",
+    "start": "25/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 12.448655,
+    "longitude": -2.431474,
+    "address": "489 Example St, City 66, Ireland"
+  },
+  {
+    "name": "Bar #468",
+    "type": "Rooftop Bar",
+    "start": "12/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 57.863819,
+    "longitude": 31.43068,
+    "address": "212 Example St, City 67, United Kingdom"
+  },
+  {
+    "name": "Bar #469",
+    "type": "Lounge",
+    "start": "24/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 5.468898,
+    "longitude": -44.814491,
+    "address": "676 Example St, City 68, Ireland"
+  },
+  {
+    "name": "Bar #470",
+    "type": "Cocktail Bar",
+    "start": "21/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -43.525651,
+    "longitude": 120.242212,
+    "address": "750 Example St, City 69, Japan"
+  },
+  {
+    "name": "Bar #471",
+    "type": "Beer Hall",
+    "start": "06/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 16.810867,
+    "longitude": 133.601866,
+    "address": "294 Example St, City 70, Thailand"
+  },
+  {
+    "name": "Bar #472",
+    "type": "Wine Bar",
+    "start": "15/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -42.877304,
+    "longitude": -87.963064,
+    "address": "295 Example St, City 71, Brazil"
+  },
+  {
+    "name": "Bar #473",
+    "type": "Rooftop Bar",
+    "start": "03/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 28.956695,
+    "longitude": -135.303063,
+    "address": "293 Example St, City 72, Vietnam"
+  },
+  {
+    "name": "Bar #474",
+    "type": "Traditional Pub",
+    "start": "28/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -57.613059,
+    "longitude": -149.938935,
+    "address": "193 Example St, City 73, Netherlands"
+  },
+  {
+    "name": "Bar #475",
+    "type": "Brewpub",
+    "start": "26/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 37.481917,
+    "longitude": -2.963727,
+    "address": "468 Example St, City 74, South Africa"
+  },
+  {
+    "name": "Bar #476",
+    "type": "Tapas Bar",
+    "start": "25/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 32.878581,
+    "longitude": -21.317608,
+    "address": "926 Example St, City 75, Spain"
+  },
+  {
+    "name": "Bar #477",
+    "type": "Rooftop Bar",
+    "start": "29/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 64.69705,
+    "longitude": -62.908223,
+    "address": "88 Example St, City 76, Sweden"
+  },
+  {
+    "name": "Bar #478",
+    "type": "Tapas Bar",
+    "start": "14/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -4.958351,
+    "longitude": -5.168496,
+    "address": "9 Example St, City 77, Vietnam"
+  },
+  {
+    "name": "Bar #479",
+    "type": "Rooftop Bar",
+    "start": "19/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -9.119121,
+    "longitude": 133.295906,
+    "address": "271 Example St, City 78, Vietnam"
+  },
+  {
+    "name": "Bar #480",
+    "type": "Wine Bar",
+    "start": "02/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 63.853374,
+    "longitude": -45.121651,
+    "address": "199 Example St, City 79, Mexico"
+  },
+  {
+    "name": "Bar #481",
+    "type": "Wine Bar",
+    "start": "14/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 27.055943,
+    "longitude": -134.984068,
+    "address": "138 Example St, City 80, Sweden"
+  },
+  {
+    "name": "Bar #482",
+    "type": "Brewpub",
+    "start": "08/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -12.574483,
+    "longitude": -34.489169,
+    "address": "308 Example St, City 81, Spain"
+  },
+  {
+    "name": "Bar #483",
+    "type": "Cocktail Bar",
+    "start": "11/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 49.326253,
+    "longitude": -124.413369,
+    "address": "497 Example St, City 82, Ireland"
+  },
+  {
+    "name": "Bar #484",
+    "type": "Rooftop Bar",
+    "start": "14/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -19.306987,
+    "longitude": 60.395835,
+    "address": "604 Example St, City 83, Vietnam"
+  },
+  {
+    "name": "Bar #485",
+    "type": "Rooftop Bar",
+    "start": "23/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 16.318754,
+    "longitude": 103.341973,
+    "address": "716 Example St, City 84, Russia"
+  },
+  {
+    "name": "Bar #486",
+    "type": "Beach Bar",
+    "start": "01/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -55.946632,
+    "longitude": -112.601253,
+    "address": "887 Example St, City 85, Brazil"
+  },
+  {
+    "name": "Bar #487",
+    "type": "Sports Bar",
+    "start": "01/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -16.893378,
+    "longitude": -63.922058,
+    "address": "411 Example St, City 86, France"
+  },
+  {
+    "name": "Bar #488",
+    "type": "Cocktail Bar",
+    "start": "21/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 50.157202,
+    "longitude": -44.495907,
+    "address": "160 Example St, City 87, Sweden"
+  },
+  {
+    "name": "Bar #489",
+    "type": "Rooftop Bar",
+    "start": "17/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 2.859556,
+    "longitude": -20.999742,
+    "address": "500 Example St, City 88, Argentina"
+  },
+  {
+    "name": "Bar #490",
+    "type": "Beer Hall",
+    "start": "25/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -40.994156,
+    "longitude": -63.957485,
+    "address": "82 Example St, City 89, Japan"
+  },
+  {
+    "name": "Bar #491",
+    "type": "Beer Hall",
+    "start": "22/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -24.899724,
+    "longitude": 39.010046,
+    "address": "48 Example St, City 90, India"
+  },
+  {
+    "name": "Bar #492",
+    "type": "Beach Bar",
+    "start": "09/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 26.474496,
+    "longitude": 147.067916,
+    "address": "135 Example St, City 91, Sweden"
+  },
+  {
+    "name": "Bar #493",
+    "type": "Tapas Bar",
+    "start": "10/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 13.93602,
+    "longitude": -91.024519,
+    "address": "598 Example St, City 92, Brazil"
+  },
+  {
+    "name": "Bar #494",
+    "type": "Wine Bar",
+    "start": "13/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 55.108752,
+    "longitude": 111.707053,
+    "address": "202 Example St, City 93, Brazil"
+  },
+  {
+    "name": "Bar #495",
+    "type": "Rooftop Bar",
+    "start": "20/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -37.133423,
+    "longitude": -102.162741,
+    "address": "460 Example St, City 94, United Kingdom"
+  },
+  {
+    "name": "Bar #496",
+    "type": "Rooftop Bar",
+    "start": "30/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 10.445658,
+    "longitude": 102.243418,
+    "address": "850 Example St, City 95, Russia"
+  },
+  {
+    "name": "Bar #497",
+    "type": "Lounge",
+    "start": "30/07/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -10.82327,
+    "longitude": 14.11389,
+    "address": "364 Example St, City 96, Mexico"
+  },
+  {
+    "name": "Bar #498",
+    "type": "Rooftop Bar",
+    "start": "01/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": -37.724365,
+    "longitude": 86.109829,
+    "address": "492 Example St, City 97, France"
+  },
+  {
+    "name": "Bar #499",
+    "type": "Wine Bar",
+    "start": "28/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 38.084472,
+    "longitude": -20.841341,
+    "address": "772 Example St, City 98, Spain"
+  },
+  {
+    "name": "Bar #500",
+    "type": "Beer Hall",
+    "start": "27/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 18.165511,
+    "longitude": 143.902833,
+    "address": "838 Example St, City 99, Mexico"
   }
 ]
